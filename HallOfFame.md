@@ -13,7 +13,7 @@ HGSS, and BW. So tell your friends, get them interested and the prize pool will 
 Every mon will have it's own unique RECORD HOLDER, based on most completed milestones. 
 
 To see the current record holders, see http://bit.ly/3Q5jTEm <br>
-The official kaizo ironmon ruleset github: http://ironmon.gg/ (scroll down to Kaizo)
+The official kaizo ironmon ruleset github: ironmon.gg/#kaizo-ironmon-ruleset
 
 **SO HOW DOES IT WORK** 
 | Rule | Details |
