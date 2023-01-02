@@ -12,6 +12,8 @@ HGSS, and BW. So tell your friends, get them interested and the prize pool will 
 
 Every mon will have it's own unique RECORD HOLDER, based on most completed milestones. 
 
+it will be starting as a subscriber only mode largely for the reason that i cannot manage an extremely large VOD review and data entry pool. I would really like to lift this restriction but i cannot manage a huge number of inputs on my own and don't think i feel right about asking an 'admin team' to help me do VOD review and data entry for an entire calendar year. However, as the sheets fill and there is less viewing/entry needed, its highly possible that i will lift the 'sub only' restriction.
+
 To see the current record holders, see http://bit.ly/3Q5jTEm <br>
 The official kaizo ironmon ruleset github: ironmon.gg/#kaizo-ironmon-ruleset
 
