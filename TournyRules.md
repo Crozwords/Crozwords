@@ -9,6 +9,8 @@ In the second round: win or go home!
 Finals: win to claim your 🏆
 Skissue Bracket: A 1-week free-for-all! This is a second chance at REDEMPTION. Score the highest and be awarded your skissue medal 🎖️
 
+Setting string for the tourny will be: 321WRIEEgKYAJsAngCRAAKeBhsEiAEAFAACCQAuEgAAAAAAzBCI5ATkQYgICTIGBQIyAAUYAMwQiAAAAAEVUG9rZW1vbiBIZWFydEdvbGQgKFUpJyVMQMJeEp8=
+
 You can join the tourney Discord server here: https://discord.gg/nxjb4HNhce where you can register, view the brackets, get tourny resources, see the FAQs, etc.
 
 **TRADITIONAL KAIZO TOURNAMENT HGSS** 
@@ -17,7 +19,6 @@ You can join the tourney Discord server here: https://discord.gg/nxjb4HNhce wher
 | Have Fun!🙂 | This tournament has brought together a lot of streamers and their communities. It's all about having fun and enjoying the experience!|
 | 10 Seeds Per Round | 	Each player will complete 10 seeds within the week. |
 | Make Time For Seeds | 10 seeds must be completed in the 1 week window. If the seeds are not completed, the score will be considered final at the closing of the round. Times are based on your local timezone. i.e. Round 1 will conclude *specified day* at 11:59pm. |
-| Setting String| Setting string for the tourny will be: 321WRIEEgKYAJsAngCRAAKeBhsEiAEAFAACCQAuEgAAAAAAzBCI5ATkQYgICTIGBQIyAAUYAMwQiAAAAAEVUG9rZW1vbiBIZWFydEdvbGQgKFUpJyVMQMJeEp8= |
 | Lab Ball Choice | 	To help promote competetive balance, all 10 seeds will be 'lab choice' where each competitor exams each ball and chooses their starter. |
 | Legendary Lab Clauses | 	1. If 3 If 3 Legendaries/599+BST show up in the lab, still select a random ball, complete Rival 1 battle and pivot before first trainer. 
 |                       |   2. If 2 Legendaries/599+BST, Re-randomise the seed and DO NOT count it as a reset.
