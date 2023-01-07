@@ -16,9 +16,9 @@ it will be starting as a subscriber only mode largely for the reason that i cann
 
 **FRLG setting string:** 320WRIEEjIBAAQABwCRAAKeBnsECQEAFAACCQAuEgAAAAAABRi45ATkAYYICTIGBAIyAAUAEEZpcmUgUmVkIChVKSAxLjGwV2lQ48M4ig== <br> 
 **Emerald setting string:** <br> 320WRIEEjL8AP8AAgGRAAKeBnsECQEAFAACCQAuEgAAAAAABBC45ATkAYYICTIGBAIyAAUAC0VtZXJhbGQgKFUpS0Cr6OPDOIo= <br> 
-**HGSS setting string:** 321WRIEEgKYAJsAngCRAAKeBhsEiAEAFAACCQAuEgAAAAAAzBCI5ATkQYgICTIGBQIyAAUYAMwQiAAAAAEVUG9rZW1vbiBIZWFydEdvbGQgKFUpJyVMQMJeEp8= <br> 
-**Platinum setting string:** 320WRIEEgLDAXQA+ACRAAKeBnsEiAEAFAACCQAuEgAAAAAADBCI5ATkQYYICTIGBQIyEwUAGlBva2Vtb24gUGxhdGludW0gKFUgUmV2IDEpFdCYUOPDOIo= <br> 
-**B/W setting string:** 320WRIEEgLvAfIB9QGRAAKeJHsECQEAFAACCQAuEgAAAAAABHCI5ATkwYYICTIGBgIyAAUAEVBva2Vtb24gQmxhY2sgKFUp+Cnbd+PDOIo= <br> <br> <br> 
+**HGSS setting string:** 321WRIEEgKYAJsAngCRAAKeBhsECQEAFAACCQAuEgAAAAAAzBCI5ATkQYYICTIGBQIyAAUYAMwQiAAAAAEVUG9rZW1vbiBIZWFydEdvbGQgKFUpHAEjrcJeEp8= <br> 
+**Platinum setting string:** 321WRIEEgKYAJsAngCRAAKeBhsECQEAFAACCQAuEgAAAAAAzBCI5ATkQYYICTIGBQIyAAUYAMwQiAAAAAAUUG9rZW1vbiBQbGF0aW51bSAoVSkTaHCLwl4Snw== <br> 
+**B/W setting string:** 321WRIEEgKYAJsAngCRAAKeBhsECQEAFAACCQAuEgAAAAAgxBCI5ATkQYgICTIGBgIyAAUYIMQQiAAAAAARUG9rZW1vbiBCbGFjayAoVSks12gQwl4Snw== <br> <br> <br> 
 **Other random Settings which are legal** https://imgur.com/a/yGfcJ9O <br> +4 to trainers some streamers like for aesthetics. Friendship/ban unown is just a time saver, revert berries is globally accepted.<br><br> reminder that all seeds must be streamed *in their entirity*. |
 
 To see the current record holders, see http://bit.ly/3Q5jTEm <br>
