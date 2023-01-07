@@ -14,7 +14,7 @@ Every mon will have it's own unique RECORD HOLDER, based on most completed miles
 
 it will be starting as a subscriber only mode largely for the reason that i cannot manage an extremely large VOD review and data entry pool. I would really like to lift this restriction but i cannot manage a huge number of inputs on my own and don't think i feel right about asking an 'admin team' to help me do VOD review and data entry for an entire calendar year. However, as the sheets fill and there is less viewing/entry needed, its highly possible that i will lift the 'sub only' restriction. <br>
 
-Note: All strings are compatible  for something_smart's randomizer linked in the HOF-resources channel.
+Note: All strings are compatible  for something_smart's randomizer linked in the HOF-resources channel. <br>
 **FRLG setting string:** 320WRIEEjIBAAQABwCRAAKeBnsECQEAFAACCQAuEgAAAAAABRi45ATkAYYICTIGBAIyAAUAEEZpcmUgUmVkIChVKSAxLjGwV2lQ48M4ig== <br> 
 **Emerald setting string:** <br> 320WRIEEjL8AP8AAgGRAAKeBnsECQEAFAACCQAuEgAAAAAABBC45ATkAYYICTIGBAIyAAUAC0VtZXJhbGQgKFUpS0Cr6OPDOIo= <br> 
 **HGSS setting string:** 321WRIEEgKYAJsAngCRAAKeBhsECQEAFAACCQAuEgAAAAAAzBCI5ATkQYYICTIGBQIyAAUYAMwQiAAAAAEVUG9rZW1vbiBIZWFydEdvbGQgKFUpHAEjrcJeEp8= <br> 
