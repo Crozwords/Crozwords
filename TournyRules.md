@@ -9,7 +9,7 @@ In the second round: win or go home!
 Finals: win to claim your 🏆
 Skissue Bracket: A 1-week free-for-all! This is a second chance at REDEMPTION. Score the highest and be awarded your skissue medal 🎖️
 
-Setting string for the tourny will be: <br> **somethingsmart randomizer** 321WRIEEgKYAJsAngCRAAKeBhsEiAEAFAACCQAuEgAAAAAAzBCI5ATkQYgICTIGBQIyAAUYAMwQiAAAAAEVUG9rZW1vbiBIZWFydEdvbGQgKFUpJyVMQL+V3Aw= <br>
+Setting string for the tourny will be: <br> **somethingsmart randomizer** 321WRIEEgKYAJsAngCRAAKeBhsEiAEAFAACCQAuEgAAAAAAzBCI5ATkQYgICTIGBQIyAAUgAMwQiAAAAAEVUG9rZW1vbiBIZWFydEdvbGQgKFUpueibudmOI6E=  <br>
 
 You can join the tourney Discord server here: https://discord.gg/nxjb4HNhce where you can register, view the brackets, get tourny resources, see the FAQs, etc.
 
