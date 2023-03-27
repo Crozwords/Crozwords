@@ -20,9 +20,7 @@ You can join the tourney Discord server here: https://discord.gg/nxjb4HNhce wher
 | 10 Seeds Per Round | 	Each player will complete 10 seeds within the week. |
 | Make Time For Seeds | 10 seeds must be completed in the 1 week window. If the seeds are not completed, the score will be considered final at the closing of the round. Times are based on your local timezone. i.e. Round 1 will conclude *specified day* at 11:59pm. |
 | Lab Ball Choice | 	To help promote competetive balance, all 10 seeds will be 'lab choice' where each competitor exams each ball and chooses their starter. |
-| Legendary Lab Clauses | 	1. If 3 If 3 Legendaries/599+BST show up in the lab, still select a random ball, complete Rival 1 battle and pivot before first trainer. 
-|                       |   2. If 2 Legendaries/599+BST, Re-randomise the seed and DO NOT count it as a reset.
-|                       |   3. If 1 Legendary/599+BST, it's still lab choice but you cannot choose the illegal mon. |
+| Legendary Lab Clauses | 	As of S7 - Legendaries will be banned from the lab due to competitive inequality for those that face them on rival vs. those that do not. |
 | Trapping Rule | 	Before the Rival 1 battle, if a mon traps you and 0 Poké Balls have been found, you may kill the mon. This CANNOT be exploited purposefully. If you picked up a Poké Ball, you MUST attempt to catch and release or pivot- your intentions must also be declared. If you catch and release, you may not look at the info for the Pokémon |
 | Seed Visibility | 	Please have a visible note somewhere on your stream layout which indicates the seed you are currently running. (E.g. Tourney Seed #1) |
 | Score Hand-In | 	Upon completion of your stream, the player must post seed scores in the #Tourny-Score-Submit channel. Please use the correct format so admins can update the spreadsheet as fast as possible.|
