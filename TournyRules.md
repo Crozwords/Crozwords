@@ -29,7 +29,7 @@ You can join the tourney Discord server here: https://discord.gg/nxjb4HNhce wher
 | Evolution Bonus points | Successfully evolving a Pokémon through natural level-up  will earn you bonus points towards your tournament score (Items/Friendship evolutions will not count)  
 |                        | **Evolution Point Structure:** Bonus structure: Lvl 0-19 (+2) -- Lvl 20-29 (+3) -- Lvl 30+ (+5)|
 |                        | You are limited to TWO (2) evolution bonuses per seed. All evolution targets must come from Route 29, 30, 31, 32, 46, Sprout Tower, Ruins of Alph, Dark Cave, Rock Smash/Headbutt/Fishing locations PRE-Union Cave. Evolution bonus is NOT AVAILABLE to new pivots during or after Union Cave. 
-| Kaizo Luck Clause | If you do not beat the first rival battle in ANY of your FIRST 9 attempts, you can repeat seed #10 as a Choice Seed until Rival 1 is cleared. |
+| Kaizo Luck Clause | If you do not beat the first rival battle in ANY of your FIRST 9 attempts, you can re-randomize seed #10 as a Choice Seed until Rival 1 is cleared. |
 
 
 **PARTNERS KAIZO TOURNAMNET HGSS**
