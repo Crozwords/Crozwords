@@ -13,7 +13,7 @@ Setting string for the tourny will be: <br> **somethingsmart randomizer** 321WRI
 
 You can join the tourney Discord server here: https://discord.gg/nxjb4HNhce where you can register, view the brackets, get tourny resources, see the FAQs, etc.
 
-**TRADITIONAL KAIZO TOURNAMENT HGSS** 
+**HGSS TRADITIONAL KAIZO TOURNAMENT** 
 | Rule | Details |
 | --- | --- |
 | Have Fun!🙂 | This tournament has brought together a lot of streamers and their communities. It's all about having fun and enjoying the experience!|
