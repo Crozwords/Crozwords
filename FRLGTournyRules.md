@@ -19,7 +19,7 @@ You can join the tourney Discord server here: https://discord.gg/nxjb4HNhce wher
 | Have Fun!🙂 | This tournament has brought together a lot of streamers and their communities. It's all about having fun and enjoying the experience!|
 | 10 Seeds Per Round | 	Each player will complete 10 seeds within the week. |
 | Guaranteed Run Clause | Each player is guaranteed all 10 seeds exit the lab. |
-|                       | Players MUST click moves that make the most sense (i.e. most powerful/status etc), any attempts to throw lab purposefully will result in DQ and possible barring from future tournaments. **REMEMBER** it's meant to be fun, embrace the RNG. |
+|                       | Players MUST attempt to click moves that make sense (i.e. most powerful/status etc), any attempts to throw lab purposefully will result in DQ. We understand that skissues happen but **REMEMBER** it's meant to be fun, embrace the RNG. |
 | Make Time For Seeds | 10 seeds must be completed in the 1 week window. If the seeds are not completed, the score will be considered final at the closing of the round. Times are based on your local timezone. i.e. Round 1 will conclude *specified day* at 11:59pm. |
 | Lab Ball Choice | 	To help promote competetive balance, all 10 seeds will be 'lab choice' where each competitor exams each ball and chooses their starter. |
 | Legendary Lab Clauses | Legendaries will be banned from the lab due to competitive inequality for those that face them on rival vs. those that do not. |
