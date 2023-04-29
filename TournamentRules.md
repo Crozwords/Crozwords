@@ -49,6 +49,8 @@ For the settings strings, we recommend using [**something_smart's edited randomi
 || You are limited to TWO (2) evolution bonuses per seed. All evolution targets must come from Route 29, 30, 31, 32, 46, Sprout Tower, Ruins of Alph, Dark Cave, Rock Smash/Headbutt/Fishing locations PRE-Union Cave. Evolution bonus is NOT AVAILABLE to new pivots during or after Union Cave. 
 | Kaizo Luck Clause | If you do not beat the first rival battle in ANY of your **FIRST 9** attempts, you can re-randomize seed #10 as a Choice Seed until Rival 1 is cleared. |
 
+[**Back to top**](#crozwords-kaizo-ironmon-tournament-rules-hub)
+
 ## Partners HeartGold Rules
 **This table deatils the extra rules placed on competitors when running Partners seeds**
 | **Rule** | **Details** |
@@ -67,3 +69,5 @@ For the settings strings, we recommend using [**something_smart's edited randomi
 |-|-|
 | Guaranteed Run Clause | Each player is guaranteed 10 seeds exit the lab. If you faint in the lab, you re-randomize and try again. |
 || Players MUST attempt to click moves that make sense (i.e. most powerful/status etc), any attempts to throw lab purposefully will result in DQ. We understand that skissues happen, but **REMEMBER** it's meant to be fun, embrace the RNG. |
+
+[**Back to top**](#crozwords-kaizo-ironmon-tournament-rules-hub)
