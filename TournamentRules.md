@@ -19,7 +19,7 @@ You can join the tournament Discord server [**here**](https://discord.gg/nxjb4HN
 | **String Settings** | [**Here**](#tournament-randomizer-string-settings) |
 | **HG Traditional** | [**Here**](#traditional-heartgold-rules) |
 | **HG Partners** | [**Here**](#partners-heartgold-rules) |
-| **Fire Red** | [**Here**](#fire-red-rule) |
+| **Fire Red** | [**Here**](#fire-red-rules) |
 
 ## Tournament Randomizer String Settings:
 For the settings strings, we recommend using [**something_smart's edited randomizer**](https://github.com/something-smart/ironmon-randomizer) which will give competitors enhanced settings to speed up seed times. Formats below with **(Smart)** are only compatible with something_smart's randomizer and will have access to increased friendship values. Competitors using the most up-to-date randomizer from the official IronMON Discord server will want to use the strings with **(4.6.0)**.
@@ -63,11 +63,12 @@ For the settings strings, we recommend using [**something_smart's edited randomi
 || **PLAYER 2's** redemption of the plates is a 1-time purchase of healing items = to 10x the number of plates you have been gifted. E.g. you were gifted 10 plates, you can exchange them for 100pts of healing, however you choose. (5 Potions... or 2 Super Potions, etc.) *note* You must progess far enough to be able to purchase your preferred potions. i.e. Super Potions only unlock after obtaining 1st badge. |
 | Admin Lab Creation | Prior to each round of the tournament, the coordinator or an Admin will randomly run 10 lab seeds and provide the listed mons to each team. Those mons will be identical for all players for the round however each team's PLAYER 1 will do the unique randomization, then share the seed number and string code with their Partner. |
 
-## Fire Red Rule
-**This table deatils the extra rule placed on competitors when running Fire Red seeds**
+## Fire Red Rules
+**This table deatils the extra rules placed on competitors when running Fire Red seeds**
 | **Rule** | **Details** |
 |-|-|
 | Guaranteed Run Clause | Each player is guaranteed 10 seeds exit the lab. If you faint in the lab, you re-randomize and try again. |
 || Players MUST attempt to click moves that make sense (i.e. most powerful/status etc), any attempts to throw lab purposefully will result in DQ. We understand that skissues happen, but **REMEMBER** it's meant to be fun, embrace the RNG. |
+| Evolution Bonus points | You are limited to TWO (2) evolution bonuses per seed. All evolution targets must come from Route 1, 22, 2, Viridian Forest PRE-Gym 1. |
 
 [**Back to top**](#crozwords-kaizo-ironmon-tournament-rules-hub)
