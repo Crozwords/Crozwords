@@ -31,7 +31,7 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 | Fired Red **(4.6.0)** | 321WRIEEjIBAAQABwCRAAKeBhsEiAEAiAACCQAuEgAAAAAABRi45ATkAYYICTIGBAIyAAUYEEZpcmUgUmVkIChVKSAxLjEqWEzh48M4ig== |
 
 ## Traditional Global Rules
-**Rules which apply to the tournament as a whole. Any additional rules for other modes will be noted below this table**
+**Rules which apply to the tournament as a whole. Any additional rules for other modes will be noted below this table.**
 | **Rule** | **Details** |
 |-|-|
 | Have Fun!🙂 | This tournament has brought together a lot of streamers and their communities. It's all about having fun and enjoying the experience!|
