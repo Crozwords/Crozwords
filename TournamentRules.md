@@ -46,14 +46,14 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 | 100% TMs  | Another variance to promote competetive balance, is 100% TM compatibility. However, you are only allowed to teach two (2) Gym Leader TMs in your entire seed. If a run makes it to Kanto, you unlock one (1) additional TM to teach. Non-Gym-Leader TMs and all HMs are still illegal. |
 | Tie Event | In the event of a tie, the player who had the furthest run will be declared the winner. Full clear bonus points ARE NOT milestones. If players are still tied, a 1-seed sudden death play-off will be completed to determine the winner. Players will still have lab choice for the ball. The first player to complete the Rival 1 battle sets the distance to beat. The player with the most completed milestones will be declared the winner. |
 | Evolution Bonus points | Successfully evolving a Pokémon through natural level-up will earn you bonus points towards your tournament score (Items/Friendship evolutions will not count). |
-|| **Evolution Point Structure:** Bonus structure: Lvl 0-19 (+2) -- Lvl 20-29 (+3) -- Lvl 30+ (+5) |
+|| **Evolution Bonus Points Structure:** Lvl 0-19 (+2) -- Lvl 20-29 (+3) -- Lvl 30+ (+5) |
 || You are limited to TWO (2) evolution bonuses per seed. All evolution targets must come from Route 29, 30, 31, 32, 46, Sprout Tower, Ruins of Alph, Dark Cave, Rock Smash/Headbutt/Fishing locations PRE-Union Cave. Evolution bonus is NOT AVAILABLE to new pivots during or after Union Cave. 
 | Kaizo Luck Clause | If you do not beat the first rival battle in ANY of your **FIRST 9** attempts, you can re-randomize seed #10 as a Choice Seed until Rival 1 is cleared. |
 
 [**Back to top**](#crozwords-kaizo-ironmon-tournament-rules-hub)
 
 ## Partners HeartGold Rules
-**This table deatils the extra rules placed on competitors when running Partners seeds**
+**Extra rules placed on competitors when running Partners seeds**
 | **Rule** | **Details** |
 |-|-|
 | PLAYER 1 and PLAYER 2 | Both players will be completing idential seeds. **PLAYER 1** Your job is to scout the seed and provide information and resources to the PLAYER 2. PLAYER 2 will have the advantage of knowing what your partner encountered. Your job as a team is to communicate and work together to score the MOST CUMULATIVE MILESTONE + BONUS POINTS. All information exchanged is legal. Logs are not to be viewed until both PLAYER 1 and PLAYER 2 have completed the seed. |
@@ -65,7 +65,7 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 | Admin Lab Creation | Prior to each round of the tournament, the coordinator or an Admin will randomly run 10 lab seeds and provide the listed mons to each team. Those mons will be identical for all players for the round however each team's PLAYER 1 will do the unique randomization, then share the seed number and string code with their Partner. |
 
 ## Fire Red Rules
-**This table deatils the extra rules placed on competitors when running Fire Red seeds**
+**Extra rules placed on competitors when running Fire Red seeds**
 | **Rule** | **Details** |
 |-|-|
 | Guaranteed Run Clause | Each player is guaranteed 10 seeds exit the lab. If you faint in the lab, you re-randomize and try again. |
