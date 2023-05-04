@@ -25,7 +25,7 @@ You can join the tournament Discord server [**here**](https://discord.gg/nxjb4HN
 For the settings strings, we recommend using [**something_smart_'s edited randomizer**](https://github.com/something-smart/ironmon-randomizer) which will give competitors enhanced settings to speed up seed times. Formats below with **(Smart)** are only compatible with something_smart_'s randomizer and will have access to increased friendship values. Competitors using the most up-to-date randomizer from the official IronMON Discord server will want to use the strings with **(4.6.0)**.
 | **Format** | **String** |
 |-|-|
-| HeartGold **(Smart)** | 321WRIEEgKYAJsAngCRAAKeBhsEiAEAiAACCQAuEgAAAAAAzBCI5ATkQYgICTIGBQIyAAUYAMwQiAAAAAEVUG9rZW1vbiBIZWFydEdvbGQgKFUpmJ1AIHf165c= |
+| HeartGold **(Smart)** | 321WRIEEgKYAJsAngCRAAKeBhsEiAEAFAACCQAuEgAAAAABzBCI5ATkQYgICTIGBQIyAAUYAcwQiAAAAAEVUG9rZW1vbiBIZWFydEdvbGQgKFUplB2AW7GhNF0= |
 | HeartGold **(4.6.0)** | 321WRIEEgKDAYYBiQGRAAKeBhsEiAEAiAACCQAuEgAAAAAADBiI5ATkQYgICTIGBQIyAAUYFVBva2Vtb24gSGVhcnRHb2xkIChVKQwA9W3jwziK |
 | Fire Red **(Smart)** | 321WRIEEjIBAAQABwCRAAKeBhsEiAEAFAACCQAuEgAAAAABhRi45ATkAYgICTIGBAIyAAUYAYUYuAAAAAAQRmlyZSBSZWQgKFUpIDEuMc98zPCxoTRd |
 | Fired Red **(4.6.0)** | 321WRIEEjIBAAQABwCRAAKeBhsEiAEAiAACCQAuEgAAAAAABRi45ATkAYYICTIGBAIyAAUYEEZpcmUgUmVkIChVKSAxLjEqWEzh48M4ig== |
