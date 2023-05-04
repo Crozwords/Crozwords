@@ -70,6 +70,6 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 |-|-|
 | Guaranteed Run Clause | Each player is guaranteed 10 seeds exit the lab. If you faint in the lab, you re-randomize and try again. |
 || Players MUST attempt to click moves that make sense (i.e. most powerful/status etc), any attempts to throw lab purposefully will result in DQ. We understand that skissues happen, but **REMEMBER** it's meant to be fun, embrace the RNG. |
-| Evolution Bonus points | You are limited to TWO (2) evolution bonuses per seed. All evolution targets must come from Route 1, 22, 2, Viridian Forest PRE-Gym 1. |
+| Evolution Bonus points | You are limited to TWO (2) evolution bonuses per seed. All evolution targets must come from Route 1, 22, 2 and Viridian Forest PRE-Gym 1. |
 
 [**Back to top**](#crozwords-kaizo-ironmon-tournament-rules-hub)
