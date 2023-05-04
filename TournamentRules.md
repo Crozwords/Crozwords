@@ -17,7 +17,7 @@ You can join the tournament Discord server [**here**](https://discord.gg/nxjb4HN
 | **Section** | **Navigation** |
 |-|-|
 | **String Settings** | [**Here**](#tournament-randomizer-string-settings) |
-| **HG Traditional** | [**Here**](#traditional-heartgold-rules) |
+| **Global Tourney Rules** | [**Here**](#traditional-global-rules) |
 | **HG Partners** | [**Here**](#partners-heartgold-rules) |
 | **Fire Red** | [**Here**](#fire-red-rules) |
 
@@ -30,7 +30,8 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 | Fire Red **(Smart)** | 321WRIEEjIBAAQABwCRAAKeBhsEiAEAFAACCQAuEgAAAAABhRi45ATkAYgICTIGBAIyAAUYAYUYuAAAAAAQRmlyZSBSZWQgKFUpIDEuMc98zPCxoTRd |
 | Fired Red **(4.6.0)** | 321WRIEEjIBAAQABwCRAAKeBhsEiAEAiAACCQAuEgAAAAAABRi45ATkAYYICTIGBAIyAAUYEEZpcmUgUmVkIChVKSAxLjEqWEzh48M4ig== |
 
-## Traditional HeartGold Rules
+## Traditional Global Rules
+**Rules which apply to the tournament as a whole. Any additional rules for other modes will be noted below this table**
 | **Rule** | **Details** |
 |-|-|
 | Have Fun!🙂 | This tournament has brought together a lot of streamers and their communities. It's all about having fun and enjoying the experience!|
