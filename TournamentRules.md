@@ -27,7 +27,7 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 |-|-|
 | HeartGold **(Smart)** | 321WRIEEgKYAJsAngCRAAKeBhsEiAEAFAACCQAuEgAAAAABzBCI5ATkQYgICTIGBQIyAAUYAcwQiAAAAAEVUG9rZW1vbiBIZWFydEdvbGQgKFUplB2AW7GhNF0= |
 | HeartGold **(4.6.0)** | 321WRIEEgKDAYYBiQGRAAKeBhsEiAEAiAACCQAuEgAAAAAADBiI5ATkQYgICTIGBQIyAAUYFVBva2Vtb24gSGVhcnRHb2xkIChVKQwA9W3jwziK |
-| Fire Red **(Smart)** | 321WRIEEjIBAAQABwCRAAKeBhsEiAEAFAACCQAuEgAAAAABhRi45ATkAYgICTIGBAIyAAUYAYUYuAAAAAAQRmlyZSBSZWQgKFUpIDEuMc98zPCxoTRd |
+| Fire Red **(Smart)** | 321WRIEEjIBAAQABwCRAAKeBhsEiAEAFAACCQAuEgAAAAABhRi45ATkAYYICTIGBAIyAAUYAYUYuAAAAAAQRmlyZSBSZWQgKFUpIDEuMXYciiIGC6au |
 | Fired Red **(4.6.0)** | 321WRIEEjIBAAQABwCRAAKeBhsEiAEAiAACCQAuEgAAAAAABRi45ATkAYYICTIGBAIyAAUYEEZpcmUgUmVkIChVKSAxLjEqWEzh48M4ig== |
 
 ## Traditional Global Rules
@@ -48,7 +48,6 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 | Evolution Bonus points | Successfully evolving a Pokémon through natural level-up will earn you bonus points towards your tournament score (Items/Friendship evolutions will not count). |
 || **Evolution Bonus Points Structure:** Lvl 0-19 (+2) -- Lvl 20-29 (+3) -- Lvl 30+ (+5) |
 || You are limited to TWO (2) evolution bonuses per seed. All evolution targets must come from Route 29, 30, 31, 32, 46, Sprout Tower, Ruins of Alph, Dark Cave, Rock Smash/Headbutt/Fishing locations PRE-Union Cave. Evolution bonus is NOT AVAILABLE to new pivots during or after Union Cave. 
-| Kaizo Luck Clause | If you do not beat the first rival battle in ANY of your **FIRST 9** attempts, you can re-randomize seed #10 as a Choice Seed until Rival 1 is cleared. |
 
 [**Back to top**](#crozwords-kaizo-ironmon-tournament-rules-hub)
 
@@ -63,6 +62,7 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 | Plate Gifting | **PLAYER 1** has the ability to pass on resources to PLAYER 2 through plates. As you progress through your seed, you will accumulate PLATES. At any point in your seed, prior to an overworld battle OR entering a dungeon, you can GIFT the plates to the second player. They simply must declare "IM GIFTING xNumber of PLATES TO MY PARTNER", then trash them from their inventory. Then PLAYER 2 can redeem the plates for heals as if they had them in their correlating seed. THIS MUST BE THE SAME SEED NUMBER.
 || **PLAYER 2's** redemption of the plates is a 1-time purchase of healing items = to 10x the number of plates you have been gifted. E.g. you were gifted 10 plates, you can exchange them for 100pts of healing, however you choose. (5 Potions... or 2 Super Potions, etc.) *note* You must progess far enough to be able to purchase your preferred potions. i.e. Super Potions only unlock after obtaining 1st badge. |
 | Admin Lab Creation | Prior to each round of the tournament, the coordinator or an Admin will randomly run 10 lab seeds and provide the listed mons to each team. Those mons will be identical for all players for the round however each team's PLAYER 1 will do the unique randomization, then share the seed number and string code with their Partner. |
+| Kaizo Luck Clause | If you do not beat the first rival battle in ANY of your **FIRST 9** attempts, you can re-randomize seed #10 as a Choice Seed until Rival 1 is cleared. |
 
 ## Fire Red Rules
 **Extra rules placed on competitors when running Fire Red seeds**
