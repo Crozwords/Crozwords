@@ -30,7 +30,7 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 | Fire Red **(Smart)** | 321WRIEEjIBAAQABwCRAAKeBhsEiAEAFAACCQAuEgAAAAABhRi45ATkAYYICTIGBAIyAAUYAYUYuAAAAAAQRmlyZSBSZWQgKFUpIDEuMXYciiIGC6au |
 | Fired Red **(4.6.0)** | 321WRIEEjIBAAQABwCRAAKeBhsEiAEAiAACCQAuEgAAAAAABRi45ATkAYYICTIGBAIyAAUYEEZpcmUgUmVkIChVKSAxLjEqWEzh48M4ig== |
 
-## Traditional Global Rules
+## Global Rules
 **Rules which apply to the tournament as a whole. Any additional rules for other modes will be noted below this table.**
 | **Rule** | **Details** |
 |-|-|
