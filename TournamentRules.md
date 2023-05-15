@@ -17,7 +17,7 @@ You can join the tournament Discord server [**here**](https://discord.gg/nxjb4HN
 | **Section** | **Navigation** |
 |-|-|
 | **String Settings** | [**Here**](#tournament-randomizer-string-settings) |
-| **Global Tourney Rules** | [**Here**](#traditional-global-rules) |
+| **Global Tourney Rules** | [**Here**](#global-rules) |
 | **HG Partners** | [**Here**](#partners-heartgold-rules) |
 | **Fire Red** | [**Here**](#fire-red-rules) |
 
@@ -28,7 +28,7 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 | HeartGold **(Smart)** | 321WRIEEgKYAJsAngCRAAKeBhsEiAEAFAACCQAuEgAAAAABzBCI5ATkQYgICTIGBQIyAAUYAcwQiAAAAAEVUG9rZW1vbiBIZWFydEdvbGQgKFUplB2AW7GhNF0= |
 | HeartGold **(4.6.0)** | 321WRIEEgKDAYYBiQGRAAKeBhsEiAEAiAACCQAuEgAAAAAADBiI5ATkQYgICTIGBQIyAAUYFVBva2Vtb24gSGVhcnRHb2xkIChVKQwA9W3jwziK |
 | Fire Red **(Smart)** | 321WRIEEjIBAAQABwCRAAKeBhsEiAEAFAACCQAuEgAAAAABhRi45ATkAYYICTIGBAIyAAUYAYUYuAAAAAAQRmlyZSBSZWQgKFUpIDEuMXYciiIGC6au |
-| Fired Red **(4.6.0)** | 321WRIEEjIBAAQABwCRAAKeBhsEiAEAiAACCQAuEgAAAAAABRi45ATkAYYICTIGBAIyAAUYEEZpcmUgUmVkIChVKSAxLjEqWEzh48M4ig== |
+| Fire Red **(4.6.0)** | 321WRIEEjIBAAQABwCRAAKeBhsEiAEAiAACCQAuEgAAAAAABRi45ATkAYYICTIGBAIyAAUYEEZpcmUgUmVkIChVKSAxLjEqWEzh48M4ig== |
 
 ## Global Rules
 **Rules which apply to the tournament as a whole. Any additional rules for other modes will be noted below this table.**
@@ -43,6 +43,7 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 | Trapping Rule | Before the Rival 1 battle, if a mon traps you and 0 Poké Balls have been found, you may kill the mon. This CANNOT be exploited purposefully. If you picked up a Poké Ball, you MUST attempt to catch and release or pivot- your intentions must also be declared. If you catch and release, you may not look at the info for the Pokémon. |
 | Seed Visibility | Please have a visible note somewhere on your stream layout which indicates the seed you are currently running. (E.g. Tourney Seed #1) |
 | Score Hand-In | Upon completion of your stream, the player must post seed scores in the **#Tourny-Score-Submit** channel. Please use the correct format so organizers  can update the spreadsheet as fast as possible. |
+| Gen 3 Point Tracker | ![Gen3PointTracker](https://github.com/Crozwords/Crozwords/blob/main/point%20tracker.png)
 | 100% TMs  | Another variance to promote competetive balance, is 100% TM compatibility. However, you are only allowed to teach two (2) Gym Leader TMs in your entire seed. If a run makes it to Kanto, you unlock one (1) additional TM to teach. Non-Gym-Leader TMs and all HMs are still illegal. |
 | Tie Event | In the event of a tie, the player who had the furthest run will be declared the winner. Full clear bonus points ARE NOT milestones. If players are still tied, a 1-seed sudden death play-off will be completed to determine the winner. Players will still have lab choice for the ball. The first player to complete the Rival 1 battle sets the distance to beat. The player with the most completed milestones will be declared the winner. |
 | Evolution Bonus points | Successfully evolving a Pokémon through natural level-up will earn you bonus points towards your tournament score (Items/Friendship evolutions will not count). |
