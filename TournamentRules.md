@@ -17,6 +17,7 @@ You can join the tournament Discord server [**here**](https://discord.gg/nxjb4HN
 | **Section** | **Navigation** |
 |-|-|
 | **String Settings** | [**Here**](#tournament-randomizer-string-settings) |
+| **Season Modifiers** | [**Here**](#seasonal-tournament-modifiers) |
 | **Global Tourney Rules** | [**Here**](#global-rules) |
 | **HG Partners** | [**Here**](#partners-heartgold-rules) |
 | **FireRed** | [**Here**](#firered-rules) |
@@ -25,10 +26,17 @@ You can join the tournament Discord server [**here**](https://discord.gg/nxjb4HN
 For the settings strings, we recommend using [**something_smart_'s edited randomizer**](https://github.com/something-smart/ironmon-randomizer) which will give competitors enhanced settings to speed up seed times. Formats below with **(Smart)** are only compatible with something_smart_'s randomizer and will have access to increased friendship values. Competitors using the most up-to-date randomizer from the official IronMON Discord server will want to use the strings with **(4.6.0)**.
 | **Format** | **String** |
 |-|-|
-| HeartGold **(Smart)** | 321WRIEEgKYAJsAngCRAAKeBhsEiAEAFAACCQAuEgAAAAABzBCI5ATkQYgICTIGBQIyAAUYAcwQiAAAAAEVUG9rZW1vbiBIZWFydEdvbGQgKFUplB2AW7GhNF0= |
-| HeartGold **(4.6.0)** | 321WRIEEgKDAYYBiQGRAAKeBhsEiAEAiAACCQAuEgAAAAAADBiI5ATkQYgICTIGBQIyAAUYFVBva2Vtb24gSGVhcnRHb2xkIChVKQwA9W3jwziK |
-| FireRed **(Smart)** | 321WRIEEjIBAAQABwCRAAKeBhsEiAEAFAACCQAuEgAAAAABhRi45ATkAYYICTIGBAIyAAUYAYUYuAAAAAAQRmlyZSBSZWQgKFUpIDEuMXYciiIGC6au |
-| FireRed **(4.6.0)** | 321WRIEEjIBAAQABwCRAAKeBhsEiAEAiAACCQAuEgAAAAAABRi45ATkAYYICTIGBAIyAAUYEEZpcmUgUmVkIChVKSAxLjEqWEzh48M4ig== |
+| HeartGold **(Smart)** | 321WRIEEgKYAJsAngCRAAKeBhsEiAEAFAACCQAuEgAAAAABzBCI5ATkQYgICTIGBQIyAAUgAcwQiAAAAAEVUG9rZW1vbiBIZWFydEdvbGQgKFUpCtBXotEPBwI= |
+| HeartGold **(4.6.0)** |  |
+| FireRed **(Smart)** | 321WRIEEjIBAAQABwCRAAKeBhsEiAEAFAACCQAuEgAAAAABhRi45ATkAYYICTIGBAIyAAUgAYUYuAAAAAAQRmlyZSBSZWQgKFUpIDEuMQayTFfRDwcC |
+| FireRed **(4.6.0)** |  |
+
+## Seasonal Tournament Modifiers:
+Each season, there are modifiers selected which slightly change the way the tournament seeds are played. The current season's modifiers can be found below.
+| **Modifier** | **Details** |
+|-|-|
+| Low BST Points | <420BST Pokémon yield **double** (x2) points. |
+| 100% Catchrate | Guaranteed catches for all. |
 
 ## Global Rules
 **Rules which apply to the tournament as a whole. Any additional rules for other modes will be noted below this table.**
@@ -39,14 +47,14 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 | Make Time For Seeds | 10 seeds must be completed in the 1 week window. If the seeds are not completed, the score will be considered final at the closing of the round. Times are based on your local timezone. i.e. Round 1 will conclude *specified day* at 11:59pm. |
 | Lab Ball Choice | To help promote competetive balance, all 10 seeds will be 'lab choice' where each competitor exams each ball and chooses their starter. |
 | Legendary Lab Clauses | As of S7 - Legendaries will be banned from the lab due to competitive inequality for those that face them on rival vs. those that do not. |
-| Sketch and Poison Heal | You may not obtain a move from Sketch from a wild pokemon, or farm for Posion moves from wild pokemon if you have the ability *Poison Heal*. Sketch's overall power is very high - and in a tournament setting instead of hand-picking a move and spending hours finding it - you now have to weigh the cost of carrying an empty move slot and waste a turn in a trainer battle to teach. Poison Heal is the same - if you are poisoned with poison heal in a trainer battle, or incidentally on a wild, you may keep the status until you decide to heal. You may, under no circumstances, farm wild patches to obtain the poison status. |
+| Sketch & Poison Heal | You may not obtain a move from Sketch from a wild Pokémon, or farm for posion moves from wild Pokémon if you have the ability *Poison Heal*. Sketch's overall power is very high - and in a tournament setting instead of hand-picking a move and spending hours finding it - you now have to weigh the cost of carrying an empty move slot and waste a turn in a trainer battle to teach. Poison Heal is the same - if you are poisoned with poison heal in a trainer battle, or incidentally on a wild, you may keep the status until you decide to heal. You may, under no circumstances, farm wild patches to obtain the poison status. |
 | Trapping Rule | Before the Rival 1 battle, if a mon traps you and 0 Poké Balls have been found, you may kill the mon. This CANNOT be exploited purposefully. If you picked up a Poké Ball, you MUST attempt to catch and release or pivot- your intentions must also be declared. If you catch and release, you may not look at the info for the Pokémon. |
 | Seed Visibility | Please have a visible note somewhere on your stream layout which indicates the seed you are currently running. (E.g. Tourney Seed #1) |
-| Score Hand-In | Upon completion of your stream, the player must post seed scores in the **#Tourny-Score-Submit** channel. Please use the correct format so organizers  can update the spreadsheet as fast as possible. |
+| Score Hand-In | Upon completion of your stream, the player must post seed scores in the **#Tourny-Score-Submit** channel. Please use the correct format so organizers can update the spreadsheet as fast as possible. |
 | Gen 3 Point Tracker | ![Gen3PointTracker](https://github.com/Crozwords/Crozwords/blob/main/point%20tracker.png)
 | 100% TMs  | Another variance to promote competetive balance, is 100% TM compatibility. However, you are only allowed to teach two (2) Gym Leader TMs in your entire seed. If a run makes it to Kanto, you unlock one (1) additional TM to teach. Non-Gym-Leader TMs and all HMs are still illegal. |
 | Tie Event | In the event of a tie, the player who had the furthest run will be declared the winner. Full clear bonus points ARE NOT milestones. If players are still tied, a 1-seed sudden death play-off will be completed to determine the winner. Players will still have lab choice for the ball. The first player to complete the Rival 1 battle sets the distance to beat. The player with the most completed milestones will be declared the winner. |
-| Evolution Bonus points | Successfully evolving a Pokémon through natural level-up will earn you bonus points towards your tournament score (Items/Friendship evolutions will not count). |
+| Evolution Bonus Points | Successfully evolving a Pokémon through natural level-up will earn you bonus points towards your tournament score (Items/Friendship evolutions will not count). |
 || **Evolution Bonus Points Structure:** Lvl 0-19 (+2) -- Lvl 20-29 (+3) -- Lvl 30+ (+5) |
 || You are limited to TWO (2) evolution bonuses per seed. All evolution targets must come from Route 29, 30, 31, 32, 46, Sprout Tower, Ruins of Alph, Dark Cave, Rock Smash/Headbutt/Fishing locations PRE-Union Cave. Evolution bonus is NOT AVAILABLE to new pivots during or after Union Cave. 
 
@@ -71,6 +79,6 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 |-|-|
 | Guaranteed Run Clause | Each player is guaranteed 10 seeds exit the lab. If you faint in the lab, you re-randomize and try again. |
 || Players MUST attempt to click moves that make sense (i.e. most powerful/status etc), any attempts to throw lab purposefully will result in DQ. We understand that skissues happen, but **REMEMBER** it's meant to be fun, embrace the RNG. |
-| Evolution Bonus points | You are limited to TWO (2) evolution bonuses per seed. All evolution targets must come from Route 1, 22, 2 and Viridian Forest PRE-Gym 1. |
+| Evolution Bonus Points | You are limited to TWO (2) evolution bonuses per seed. All evolution targets must come from Route 1, 22, 2 and Viridian Forest PRE-Gym 1. |
 
 [**Back to top**](#crozwords-kaizo-ironmon-tournament-rules-hub)
