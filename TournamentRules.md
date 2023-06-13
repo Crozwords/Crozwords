@@ -19,7 +19,7 @@ You can join the tournament Discord server [**here**](https://discord.gg/nxjb4HN
 | **String Settings** | [**Here**](#tournament-randomizer-string-settings) |
 | **Global Tourney Rules** | [**Here**](#global-rules) |
 | **HG Partners** | [**Here**](#partners-heartgold-rules) |
-| **Fire Red** | [**Here**](#fire-red-rules) |
+| **FireRed** | [**Here**](#firered-rules) |
 
 ## Tournament Randomizer String Settings:
 For the settings strings, we recommend using [**something_smart_'s edited randomizer**](https://github.com/something-smart/ironmon-randomizer) which will give competitors enhanced settings to speed up seed times. Formats below with **(Smart)** are only compatible with something_smart_'s randomizer and will have access to increased friendship values. Competitors using the most up-to-date randomizer from the official IronMON Discord server will want to use the strings with **(4.6.0)**.
@@ -27,8 +27,8 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 |-|-|
 | HeartGold **(Smart)** | 321WRIEEgKYAJsAngCRAAKeBhsEiAEAFAACCQAuEgAAAAABzBCI5ATkQYgICTIGBQIyAAUYAcwQiAAAAAEVUG9rZW1vbiBIZWFydEdvbGQgKFUplB2AW7GhNF0= |
 | HeartGold **(4.6.0)** | 321WRIEEgKDAYYBiQGRAAKeBhsEiAEAiAACCQAuEgAAAAAADBiI5ATkQYgICTIGBQIyAAUYFVBva2Vtb24gSGVhcnRHb2xkIChVKQwA9W3jwziK |
-| Fire Red **(Smart)** | 321WRIEEjIBAAQABwCRAAKeBhsEiAEAFAACCQAuEgAAAAABhRi45ATkAYYICTIGBAIyAAUYAYUYuAAAAAAQRmlyZSBSZWQgKFUpIDEuMXYciiIGC6au |
-| Fire Red **(4.6.0)** | 321WRIEEjIBAAQABwCRAAKeBhsEiAEAiAACCQAuEgAAAAAABRi45ATkAYYICTIGBAIyAAUYEEZpcmUgUmVkIChVKSAxLjEqWEzh48M4ig== |
+| FireRed **(Smart)** | 321WRIEEjIBAAQABwCRAAKeBhsEiAEAFAACCQAuEgAAAAABhRi45ATkAYYICTIGBAIyAAUYAYUYuAAAAAAQRmlyZSBSZWQgKFUpIDEuMXYciiIGC6au |
+| FireRed **(4.6.0)** | 321WRIEEjIBAAQABwCRAAKeBhsEiAEAiAACCQAuEgAAAAAABRi45ATkAYYICTIGBAIyAAUYEEZpcmUgUmVkIChVKSAxLjEqWEzh48M4ig== |
 
 ## Global Rules
 **Rules which apply to the tournament as a whole. Any additional rules for other modes will be noted below this table.**
@@ -65,8 +65,8 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 | Admin Lab Creation | Prior to each round of the tournament, the coordinator or an Admin will randomly run 10 lab seeds and provide the listed mons to each team. Those mons will be identical for all players for the round however each team's PLAYER 1 will do the unique randomization, then share the seed number and string code with their Partner. |
 | Kaizo Luck Clause | If you do not beat the first rival battle in ANY of your **FIRST 9** attempts, you can re-randomize seed #10 as a Choice Seed until Rival 1 is cleared. |
 
-## Fire Red Rules
-**Extra rules placed on competitors when running Fire Red seeds**
+## FireRed Rules
+**Extra rules placed on competitors when running FireRed seeds**
 | **Rule** | **Details** |
 |-|-|
 | Guaranteed Run Clause | Each player is guaranteed 10 seeds exit the lab. If you faint in the lab, you re-randomize and try again. |
