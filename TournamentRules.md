@@ -27,16 +27,17 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 | **Format** | **String** |
 |-|-|
 | HeartGold **(Smart)** | 321WRIEEgKYAJsAngCRAAKeBhsEiAEAFAACCQAuEgAAAAABzBCI5ATkQYgICTIGBQIyAAUgAcwQiAAAAAEVUG9rZW1vbiBIZWFydEdvbGQgKFUpCtBXotEPBwI= |
-| HeartGold **(4.6.0)** |  |
+| HeartGold **(4.6.0)** | tbc |
 | FireRed **(Smart)** | 321WRIEEjIBAAQABwCRAAKeBhsEiAEAFAACCQAuEgAAAAABhRi45ATkAYYICTIGBAIyAAUgAYUYuAAAAAAQRmlyZSBSZWQgKFUpIDEuMQayTFfRDwcC |
-| FireRed **(4.6.0)** |  |
+| FireRed **(4.6.0)** | tbc |
 
 ## Seasonal Tournament Modifiers:
 Each season, there are modifiers selected which slightly change the way the tournament seeds are played. The current season's modifiers can be found below.
 | **Modifier** | **Details** |
 |-|-|
-| Low BST Points | <420BST Pokémon yield **double** (x2) points. |
+| Low BST Points | Pokémon with 419 or less BST yield **double** (x2) points. This does not effect evolution bonuses. |
 | 100% Catchrate | Guaranteed catches for all. |
+| Continue Ticket **(HG Partners)** | This season, a **"one faint continue ticket"** can be redeemed **ONCE PER PARTNERSHIP, PER ROUND and limited to PLAYER 2 only**. If the run dies at or before Rival 1, the ticket allows the run to continue. It **does not** guarantee a trip to Rival 1. |
 
 ## Global Rules
 **Rules which apply to the tournament as a whole. Any additional rules for other modes will be noted below this table.**
@@ -56,7 +57,8 @@ Each season, there are modifiers selected which slightly change the way the tour
 | Tie Event | In the event of a tie, the player who had the furthest run will be declared the winner. Full clear bonus points ARE NOT milestones. If players are still tied, a 1-seed sudden death play-off will be completed to determine the winner. Players will still have lab choice for the ball. The first player to complete the Rival 1 battle sets the distance to beat. The player with the most completed milestones will be declared the winner. |
 | Evolution Bonus Points | Successfully evolving a Pokémon through natural level-up will earn you bonus points towards your tournament score (Items/Friendship evolutions will not count). |
 || **Evolution Bonus Points Structure:** Lvl 0-19 (+2) -- Lvl 20-29 (+3) -- Lvl 30+ (+5) |
-|| You are limited to TWO (2) evolution bonuses per seed. All evolution targets must come from Route 29, 30, 31, 32, 46, Sprout Tower, Ruins of Alph, Dark Cave, Rock Smash/Headbutt/Fishing locations PRE-Union Cave. Evolution bonus is NOT AVAILABLE to new pivots during or after Union Cave. 
+|| You are limited to TWO (2) evolution bonuses per seed. All evolution targets must come from Route 29, 30, 31, 32, 46, Sprout Tower, Ruins of Alph, Dark Cave, Rock Smash/Headbutt/Fishing locations PRE-Union Cave. Evolution bonus is NOT AVAILABLE to new pivots during or after Union Cave.
+| Kaizo Luck Clause | One guaranteed trip to Falkner. If all 9 of your first runs fail to make it, you may repeat seed generation until a seed makes it here. <br> ~We want everyone who signs up to be able to actually play the game. Kaizo happens, this just helps to slightly mitigate that. |
 
 [**Back to top**](#crozwords-kaizo-ironmon-tournament-rules-hub)
 
@@ -71,7 +73,7 @@ Each season, there are modifiers selected which slightly change the way the tour
 | Plate Gifting | **PLAYER 1** has the ability to pass on resources to PLAYER 2 through plates. As you progress through your seed, you will accumulate PLATES. At any point in your seed, prior to an overworld battle OR entering a dungeon, you can GIFT the plates to the second player. They simply must declare "IM GIFTING xNumber of PLATES TO MY PARTNER", then trash them from their inventory. Then PLAYER 2 can redeem the plates for heals as if they had them in their correlating seed. THIS MUST BE THE SAME SEED NUMBER.
 || **PLAYER 2's** redemption of the plates is a 1-time purchase of healing items = to 10x the number of plates you have been gifted. E.g. you were gifted 10 plates, you can exchange them for 100pts of healing, however you choose. (5 Potions... or 2 Super Potions, etc.) *note* You must progess far enough to be able to purchase your preferred potions. i.e. Super Potions only unlock after obtaining 1st badge. |
 | Admin Lab Creation | Prior to each round of the tournament, the coordinator or an Admin will randomly run 10 lab seeds and provide the listed mons to each team. Those mons will be identical for all players for the round however each team's PLAYER 1 will do the unique randomization, then share the seed number and string code with their Partner. |
-| Kaizo Luck Clause | If you do not beat the first rival battle in ANY of your **FIRST 9** attempts, you can re-randomize seed #10 as a Choice Seed until Rival 1 is cleared. |
+
 
 ## FireRed Rules
 **Extra rules placed on competitors when running FireRed seeds**
@@ -80,5 +82,6 @@ Each season, there are modifiers selected which slightly change the way the tour
 | Guaranteed Run Clause | Each player is guaranteed 10 seeds exit the lab. If you faint in the lab, you re-randomize and try again. |
 || Players MUST attempt to click moves that make sense (i.e. most powerful/status etc), any attempts to throw lab purposefully will result in DQ. We understand that skissues happen, but **REMEMBER** it's meant to be fun, embrace the RNG. |
 | Evolution Bonus Points | You are limited to TWO (2) evolution bonuses per seed. All evolution targets must come from Route 1, 22, 2 and Viridian Forest PRE-Gym 1. |
+| Kaizo Luck Clause | One guaranteed trip to Viridian Rival. If all 9 of your first runs fail to make it, you may repeat seed generation until a seed makes it here. |
 
 [**Back to top**](#crozwords-kaizo-ironmon-tournament-rules-hub)
