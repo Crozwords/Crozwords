@@ -27,9 +27,9 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 | **Format** | **String** |
 |-|-|
 | HeartGold **(Smart)** | 321WRIEEgKYAJsAngCRAAKeBhsEiAEAFAACCQAuEgAAAAABzBCI5ATkQYgICTIGBQIyAAUgAcwQiAAAAAEVUG9rZW1vbiBIZWFydEdvbGQgKFUpCtBXotEPBwI= |
-| HeartGold **(4.6.0)** | tbc |
+| HeartGold **(4.6.0)** | 321WRIEEgKYAJsAngCRAAKeBhsEiAAAFAACCQAuEgAAAAAADBCI5ATkQYgICTIGBQIyAAUgFVBva2Vtb24gSGVhcnRHb2xkIChVKe4sWKl39euX |
 | FireRed **(Smart)** | 321WRIEEjIBAAQABwCRAAKeBhsEiAEAFAACCQAuEgAAAAABhRi45ATkAYYICTIGBAIyAAUgAYUYuAAAAAAQRmlyZSBSZWQgKFUpIDEuMQayTFfRDwcC |
-| FireRed **(4.6.0)** | tbc |
+| FireRed **(4.6.0)** | 321WRIEEgIBAAQABwCRAAKeBhsEiAAAFAACCQAuEgAAAAAABBi45ATkAYYICTIGBAIyAAUgEEZpcmUgUmVkIChVKSAxLjEHLb/7d/Xrlw== |
 
 ## Seasonal Tournament Modifiers:
 Each season, there are modifiers selected which slightly change the way the tournament seeds are played. The current season's modifiers can be found below.
@@ -79,6 +79,8 @@ Each season, there are modifiers selected which slightly change the way the tour
 **Extra rules placed on competitors when running FireRed seeds**
 | **Rule** | **Details** |
 |-|-|
+| Patch Your Game | DrMaple has kindly put a patch together to support FireRed runners. The bedroom PC item is now located in the Lab. Players are awarded 5 Poké Balls after the Rival battle. Please ensure you patch your game before completing any seeds. Find the patch on the #announcements channel in the Tourney Hub Discord server. |
+| Tracker | UTDzac has created an update for the tracker to support the tournament runners. Find the update [**here**](https://github.com/UTDZac/CrozwordsTourney-IronmonExtension/releases/latest). |
 | Guaranteed Run Clause | Each player is guaranteed 10 seeds exit the lab. If you faint in the lab, you re-randomize and try again. |
 || Players MUST attempt to click moves that make sense (i.e. most powerful/status etc), any attempts to throw lab purposefully will result in DQ. We understand that skissues happen, but **REMEMBER** it's meant to be fun, embrace the RNG. |
 | Evolution Bonus Points | You are limited to TWO (2) evolution bonuses per seed. All evolution targets must come from Route 1, 22, 2 and Viridian Forest PRE-Gym 1. |
