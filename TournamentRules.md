@@ -35,7 +35,7 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 Each season, there are modifiers selected which slightly change the way the tournament seeds are played. The current season's modifiers can be found below.
 | **Modifier** | **Details** |
 |-|-|
-| Low BST Points | Pokémon with 419 or less BST yield **double** (x2) points. This does not effect evolution bonuses. |
+| Low BST Points | Pokémon with 419 or less BST yield **double** (x2) points. This does not effect evolution bonuses. Double points do not count in Rival 1 battle. |
 | 100% Catchrate | Guaranteed catches for all. |
 | Continue Ticket **(HG Partners)** | This season, a **"one faint continue ticket"** can be redeemed **ONCE PER PARTNERSHIP, PER ROUND and limited to PLAYER 2 only**. If the run dies at or before Rival 1, the ticket allows the run to continue. It **does not** guarantee a trip to Rival 1. |
 
