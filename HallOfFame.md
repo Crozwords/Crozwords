@@ -22,7 +22,7 @@ Note: All strings are compatible  for something_smart's randomizer linked in the
 
 **HGSS setting string:** 321WRIEEgKYAJsAngCRAAKeBhsECQEAFAACCQAuEgAAAAAAzBCI5ATkQYYICTIGBQIyAAUYAMwQiAAAAAEVUG9rZW1vbiBIZWFydEdvbGQgKFUpHAEjrcJeEp8= <br> 
 **Platinum setting string:** 321WRIEEgKYAJsAngCRAAKeBhsECQEAFAACCQAuEgAAAAAAzBCI5ATkQYYICTIGBQIyAAUYAMwQiAAAAAAUUG9rZW1vbiBQbGF0aW51bSAoVSkTaHCLwl4Snw== <br> 
-**B/W setting string:** 321WRIEEgKYAJsAngCRAAKeJBsECQEAFAACCQAuEgAAAAAgxBCI5ATkQYYICTIGBgIyAAUYIMQQiAAAAAARUG9rZW1vbiBCbGFjayAoVSlcRjbQwl4Snw== <br> <br> <br> 
+**B/W setting string:** 321WRIEEgKYAJsAngCRAAKeJBsECQEAFAACCQAuEgAAAAAAxBCI5ATkQYYICTIGBgIyAAUYAMQQiAAAAAIRUG9rZW1vbiBCbGFjayAoVSnUvsYMr+eVVQ== <br> <br> <br> 
 **Other random Settings which are legal** https://imgur.com/a/yGfcJ9O <br> +4 to trainers some streamers like for aesthetics. I personally would not recommend +4 in anything other than HGSS, though. Friendship/ban unown is just a time saver, revert berries is globally accepted.<br><br> reminder that all seeds must be streamed *in their entirity*. |
 
 To see the current record holders, see http://bit.ly/3Q5jTEm <br>
