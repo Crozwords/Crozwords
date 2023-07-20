@@ -26,10 +26,10 @@ You can join the tournament Discord server [**here**](https://discord.gg/nxjb4HN
 For the settings strings, we recommend using [**something_smart_'s edited randomizer**](https://github.com/something-smart/ironmon-randomizer) which will give competitors enhanced settings to speed up seed times. Formats below with **(Smart)** are only compatible with something_smart_'s randomizer and will have access to increased friendship values. Competitors using the most up-to-date randomizer from the official IronMON Discord server will want to use the strings with **(4.6.0)**.
 | **Format** | **String** |
 |-|-|
-| HeartGold **(Smart)** | 321WRIEEgKYAJsAngCRAAKeBhsEiAEAFAACCQAuEgAAAAABzBCI5ATkQYgICTIGBQIyAAUgAcwQiAAAAAEVUG9rZW1vbiBIZWFydEdvbGQgKFUpCtBXotEPBwI= |
-| HeartGold **(4.6.0)** | 321WRIEEgKYAJsAngCRAAKeBhsEiAAAFAACCQAuEgAAAAAADBCI5ATkQYgICTIGBQIyAAUgFVBva2Vtb24gSGVhcnRHb2xkIChVKe4sWKl39euX |
-| FireRed **(Smart)** | 321WRIEEjIBAAQABwCRAAKeBhsEiAEAFAACCQAuEgAAAAABhRi45ATkAYYICTIGBAIyAAUgAYUYuAAAAAAQRmlyZSBSZWQgKFUpIDEuMQayTFfRDwcC |
-| FireRed **(4.6.0)** | 321WRIEEgIBAAQABwCRAAKeBhsEiAAAFAACCQAuEgAAAAAABBi45ATkAYYICTIGBAIyAAUgEEZpcmUgUmVkIChVKSAxLjEHLb/7d/Xrlw== |
+| HeartGold **(Smart)** |  |
+| HeartGold **(4.6.0)** |  |
+| FireRed **(Smart)** |  |
+| FireRed **(4.6.0)** |  |
 
 ## Seasonal Tournament Modifiers:
 Each season, there are modifiers selected which slightly change the way the tournament seeds are played. The current season's modifiers can be found below.
