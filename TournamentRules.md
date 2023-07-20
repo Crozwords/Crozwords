@@ -35,8 +35,6 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 Each season, there are modifiers selected which slightly change the way the tournament seeds are played. The current season's modifiers can be found below.
 | **Modifier** | **Details** |
 |-|-|
-| Low BST Points | Pokémon with 419 or less BST yield **double** (x2) points. This does not effect evolution bonuses. Double points do not count in Rival 1 battle. |
-| 100% Catchrate | Guaranteed catches for all. |
 | Early Ball Purchase **(HG Partners)** | Once per seed, **PLAYER 1** may purchase up to 5 Poké Balls in Cherrygrove. However, **PLAYER 2 MUST TRASH** the same number of potions at the start of their corresponding seed. This should allow some interaction between Player 1 & 2, giving Player 1 more responsibility in decision-making; but also a greater probability to do some scouting for Player 2. |
 | No Heals **(FireRed)** | Any seed which does not contain a legal HP restoring item of any kind before Brock may purchase **1** Potion. |
 
@@ -54,7 +52,7 @@ Each season, there are modifiers selected which slightly change the way the tour
 | Trapping Rule | Before the Rival 1 battle, if a mon traps you and 0 Poké Balls have been found, you may kill the mon. This CANNOT be exploited purposefully. If you picked up a Poké Ball, you MUST attempt to catch and release or pivot- your intentions must also be declared. If you catch and release, you may not look at the info for the Pokémon. |
 | Seed Visibility | Please have a visible note somewhere on your stream layout which indicates the seed you are currently running. (E.g. Tourney Seed #1) |
 | Score Hand-In | Upon completion of your stream, the player must post seed scores in the **#Tourny-Score-Submit** channel. Please use the correct format so organizers can update the spreadsheet as fast as possible. |
-| Gen 3 Point Tracker | ![Gen3PointTracker](https://github.com/Crozwords/Crozwords/blob/main/point%20tracker.png) |
+| Gen 3 Point Tracker | ![Gen3PointTracker](https://github.com/Crozwords/Crozwords/blob/main/Gen3PointTracker.png) |
 | 100% TMs  | Another variance to promote competetive balance, is 100% TM compatibility. However, you are only allowed to teach two (2) Gym Leader TMs in your entire seed. If a run makes it to Kanto, you unlock one (1) additional TM to teach. Non-Gym-Leader TMs and all HMs are still illegal. |
 | Tie Event | In the event of a tie, the player who had the furthest run will be declared the winner. Full clear bonus points ARE NOT milestones. If players are still tied, a 1-seed sudden death play-off will be completed to determine the winner. Players will still have lab choice for the ball. The first player to complete the Rival 1 battle sets the distance to beat. The player with the most completed milestones will be declared the winner. |
 | Evolution Bonus Points | Successfully evolving a Pokémon through natural level-up will earn you bonus points towards your tournament score (Items/Friendship evolutions will not count). |
