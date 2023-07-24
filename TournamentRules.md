@@ -35,6 +35,8 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 Each season, there are modifiers selected which slightly change the way the tournament seeds are played. The current season's modifiers can be found below.
 | **Modifier** | **Details** |
 |-|-|
+| Blood Sacrafice **(All Formats)** | At any point in a players' seed, you may trash 300HP worth of healing items to teach **ONE** TM found on the ground. Max Potions and Full Restores count as 300HP. Can only be redeemed **ONCE PER SEED**. |
+| IT'S ALL LAB **(All Formats)** | Players are allowed to use banned moves up until the completion of the first Gym. |
 | Early Balls **(HG Partners)** | Players using the latest patch (you can find this in the **#tourny-resources channel** in the Discord Server) will now be given 5 Poké Balls when leaving the lab. **Player 1** must immediately declare how many they are going to keep. **Player 2** will need to trash as many lab-given Potions as **Player 1** is keeping in the corresponding seed. This should allow some interaction between Player 1 & 2, giving Player 1 more responsibility in decision-making; but also a greater probability to do some scouting for Player 2. **Player 1** can use the balls to catch and release if they wish (still counts as using them). If **Player 1** gets trapped before the Rival battle, they can decide to play the situation as if they had the Poké Balls or not (can kill but not abuse trapped experience). **Player 2** must immediately trash the Poké Balls upon leaving the lab. |
 | No Heals **(FireRed)** | Any seed which does not contain a legal HP restoring item of any kind before Brock may purchase **1** Potion. |
 
