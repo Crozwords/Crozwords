@@ -35,7 +35,7 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 Each season, there are modifiers selected which slightly change the way the tournament seeds are played. The current season's modifiers can be found below.
 | **Modifier** | **Details** |
 |-|-|
-| Early Ball Purchase **(HG Partners)** | Once per seed, **PLAYER 1** may purchase up to 5 Poké Balls in Cherrygrove. However, **PLAYER 2 MUST TRASH** the same number of potions at the start of their corresponding seed. This should allow some interaction between Player 1 & 2, giving Player 1 more responsibility in decision-making; but also a greater probability to do some scouting for Player 2. |
+| Early Balls **(HG Partners)** | Players using the latest patch (you can find this in the **#tourny-resources channel** in the Discord Server) will now be given 5 Poké Balls when leaving the lab. **Player 1** must immediately declare how many they are going to keep. **Player 2** will need to trash as many lab-given Potions as **Player 1** is keeping in the corresponding seed. This should allow some interaction between Player 1 & 2, giving Player 1 more responsibility in decision-making; but also a greater probability to do some scouting for Player 2. **Player 1** can use the balls to catch and release if they wish (still counts as using them). If **Player 1** gets trapped before the Rival battle, they can decide to play the situation as if they had the Poké Balls or not (can kill but not abuse trapped experience). **Player 2** must immediately trash the Poké Balls upon leaving the lab. |
 | No Heals **(FireRed)** | Any seed which does not contain a legal HP restoring item of any kind before Brock may purchase **1** Potion. |
 
 ## Global Rules
@@ -52,8 +52,8 @@ Each season, there are modifiers selected which slightly change the way the tour
 | Trapping Rule | Before the Rival 1 battle, if a mon traps you and 0 Poké Balls have been found, you may kill the mon. This CANNOT be exploited purposefully. If you picked up a Poké Ball, you MUST attempt to catch and release or pivot- your intentions must also be declared. If you catch and release, you may not look at the info for the Pokémon. |
 | Seed Visibility | Please have a visible note somewhere on your stream layout which indicates the seed you are currently running. (E.g. Tourney Seed #1) |
 | Score Hand-In | Upon completion of your stream, the player must post seed scores in the **#Tourny-Score-Submit** channel. Please use the correct format so organizers can update the spreadsheet as fast as possible. |
-| Gen 3 Point Tracker | ![Gen3PointTracker](https://github.com/Crozwords/Crozwords/blob/main/Gen3PointTracker.png) |
-| Gen 4 Point Tracker | ![Gen4PointTracker](https://github.com/Crozwords/Crozwords/blob/main/Gen4PointTracker.jpg) |
+| Gen 3 Point Tracker | <br> Find the update [**here**](https://github.com/UTDZac/CrozwordsTourney-IronmonExtension/releases/latest). <br> <br> ![Gen3PointTracker](https://github.com/Crozwords/Crozwords/blob/main/Gen3PointTracker.png) |
+| Gen 4 Point Tracker | <br> Please update the tracker and find the extension in the "Extras" page. <br> <br> ![Gen4PointTracker](https://github.com/Crozwords/Crozwords/blob/main/Gen4PointTracker.jpg) |
 | 100% TMs  | Another variance to promote competetive balance, is 100% TM compatibility. However, you are only allowed to teach two (2) Gym Leader TMs in your entire seed. If a run makes it to Kanto, you unlock one (1) additional TM to teach. Non-Gym-Leader TMs and all HMs are still illegal. |
 | Tie Event | In the event of a tie, the player who had the furthest run will be declared the winner. Full clear bonus points ARE NOT milestones. If players are still tied, a 1-seed sudden death play-off will be completed to determine the winner. Players will still have lab choice for the ball. The first player to complete the Rival 1 battle sets the distance to beat. The player with the most completed milestones will be declared the winner. |
 | Evolution Bonus Points | Successfully evolving a Pokémon through natural level-up will earn you bonus points towards your tournament score (Items/Friendship evolutions will not count). |
@@ -80,10 +80,10 @@ Each season, there are modifiers selected which slightly change the way the tour
 **Extra rules placed on competitors when running FireRed seeds**
 | **Rule** | **Details** |
 |-|-|
-| Tracker | UTDzac has created an update for the tracker to support the tournament runners. Find the update [**here**](https://github.com/UTDZac/CrozwordsTourney-IronmonExtension/releases/latest). |
 | Guaranteed Run Clause | Each player is guaranteed 10 seeds exit the lab. If you faint in the lab, you re-randomize and try again. |
 || Players MUST attempt to click moves that make sense (i.e. most powerful/status etc), any attempts to throw lab purposefully will result in DQ. We understand that skissues happen, but **REMEMBER** it's meant to be fun, embrace the RNG. |
 | Evolution Bonus Points | You are limited to TWO (2) evolution bonuses per seed. All evolution targets must come from Route 1, 22, 2 and Viridian Forest PRE-Gym 1. |
 | Kaizo Luck Clause | One guaranteed trip to Viridian Rival. If all 9 of your first runs fail to make it, you may repeat seed generation until a seed makes it here. |
+| Misty Before Leaving | Players **MUST** defeat Misty before progressing south. Please use the [**provided patch**](https://github.com/DrMaple/FireRed-Tourney-Patch/releases/tag/FireRedTourneyS10) which prevents (now illegal) progression. It also includes some neat QoL updates to help players in their runs. |
 
 [**Back to top**](#crozwords-kaizo-ironmon-tournament-rules-hub)
