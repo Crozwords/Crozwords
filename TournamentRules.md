@@ -12,16 +12,6 @@ Players will be awarded points for milestones or bonuses on each seed. The score
 
 You can join the tournament Discord server [**here**](https://discord.gg/nxjb4HNhce) where you can register, view the brackets, get tournament resources and see the FAQs.
 
-## Page Navigation
-**These links will help competitors navigate the hub to the correct space.**
-| **Section** | **Navigation** |
-|-|-|
-| **String Settings** | [**Here**](#tournament-randomizer-string-settings) |
-| **Season Modifiers** | [**Here**](#seasonal-tournament-modifiers) |
-| **Global Tourney Rules** | [**Here**](#global-rules) |
-| **HG Partners** | [**Here**](#partners-heartgold-rules) |
-| **FireRed** | [**Here**](#firered-rules) |
-
 ## Tournament Randomizer String Settings:
 For the settings strings, we recommend using [**something_smart_'s edited randomizer**](https://github.com/something-smart/ironmon-randomizer) which will give competitors enhanced settings to speed up seed times. Formats below with **(Smart)** are only compatible with something_smart_'s randomizer and will have access to increased friendship values. Competitors using the most up-to-date randomizer from the official IronMON Discord server will want to use the strings with **(4.6.0)**.
 | **Format** | **String** |
@@ -63,8 +53,6 @@ Each season, there are modifiers selected which slightly change the way the tour
 || You are limited to TWO (2) evolution bonuses per seed. All evolution targets must come from Route 29, 30, 31, 32, 46, Sprout Tower, Ruins of Alph, Dark Cave, Rock Smash/Headbutt/Fishing locations PRE-Union Cave. Evolution bonus is NOT AVAILABLE to new pivots during or after Union Cave.
 | Kaizo Luck Clause | One guaranteed trip to Falkner. If all 9 of your first runs fail to make it, you may repeat seed generation until a seed makes it here. <br> ~We want everyone who signs up to be able to actually play the game. Kaizo happens, this just helps to slightly mitigate that. |
 
-[**Back to top**](#crozwords-kaizo-ironmon-tournament-rules-hub)
-
 ## Partners HeartGold Rules
 **Extra rules placed on competitors when running Partners seeds**
 | **Rule** | **Details** |
@@ -73,7 +61,7 @@ Each season, there are modifiers selected which slightly change the way the tour
 || The person who goes 1st does not have to be the same for all seeds. This is encouraged. PLAYER 1 creates the seed and then shares the seed# and setting string code from the log to PLAYER 2. <br> PLAYER 1 seed creation instructions: https://imgur.com/a/ltpZ5Oh |
 || HOWEVER, both players may NOT run the same Pokémon. This also applies to pivot mons. If PLAYER 1 catches a pokemon to pivot to, and examines its stats, PLAYER 2 may NO LONGER PIVOT to that mon when they run the seed. |
 || All teams will have the SAME LAB MONS but will have otherwise completely randomized SEEDS. i.e. you and your partner will have the same grass etc. however, your opponent will only have the same lab as you and will otherwise be completely different. |
-| Plate Gifting | **PLAYER 1** has the ability to pass on resources to PLAYER 2 through plates. As you progress through your seed, you will accumulate PLATES. At any point in your seed, prior to an overworld battle OR entering a dungeon, you can GIFT the plates to the second player. They simply must declare "IM GIFTING xNumber of PLATES TO MY PARTNER", then trash them from their inventory. Then PLAYER 2 can redeem the plates for heals as if they had them in their correlating seed. THIS MUST BE THE SAME SEED NUMBER.
+| Plate Gifting | **PLAYER 1** has the ability to pass on resources to PLAYER 2 through plates. As you progress through your seed, you will accumulate PLATES. At any point in your seed, prior to an overworld battle OR entering a dungeon, you can GIFT the plates to the second player. They simply must declare "IM GIFTING xNumber of PLATES TO MY PARTNER", then trash them from their inventory. Then PLAYER 2 can redeem the plates for heals as if they had them in their correlating seed. THIS MUST BE THE SAME SEED NUMBER. Players **must purchase** the items and cannot be supplied them in the lab (as of S10 seasonal modifier). |
 || **PLAYER 2's** redemption of the plates is a 1-time purchase of healing items = to 10x the number of plates you have been gifted. E.g. you were gifted 10 plates, you can exchange them for 100pts of healing, however you choose. (5 Potions... or 2 Super Potions, etc.) *note* You must progess far enough to be able to purchase your preferred potions. i.e. Super Potions only unlock after obtaining 1st badge. |
 | Admin Lab Creation | Prior to each round of the tournament, the coordinator or an Admin will randomly run 10 lab seeds and provide the listed mons to each team. Those mons will be identical for all players for the round however each team's PLAYER 1 will do the unique randomization, then share the seed number and string code with their Partner. |
 
@@ -87,5 +75,3 @@ Each season, there are modifiers selected which slightly change the way the tour
 | Evolution Bonus Points | You are limited to TWO (2) evolution bonuses per seed. All evolution targets must come from Route 1, 22, 2 and Viridian Forest PRE-Gym 1. |
 | Kaizo Luck Clause | One guaranteed trip to Viridian Rival. If all 9 of your first runs fail to make it, you may repeat seed generation until a seed makes it here. |
 | Misty Before Leaving | Players **MUST** defeat Misty before progressing south. Please use the [**provided patch**](https://github.com/DrMaple/FireRed-Tourney-Patch/releases/tag/FireRedTourneyS10) which prevents (now illegal) progression. It also includes some neat QoL updates to help players in their runs. |
-
-[**Back to top**](#crozwords-kaizo-ironmon-tournament-rules-hub)
