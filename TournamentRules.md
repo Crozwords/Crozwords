@@ -23,9 +23,9 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 Each season, there are modifiers selected which slightly change the way the tournament seeds are played. The current season's modifiers can be found below.
 | **Modifier** | **Details** |
 |-|-|
-| **Alchemist** **(All Formats)** | You can Sell Potions and Drinks to buy different ones that have the same or less HP value. Max Potion and Full Restore count for 300HP. |
+| **Alchemist** **(All Formats)** | You can sell Potions and drinks to buy different ones that have the same or less HP value. Max Potion and Full Restore count for 300HP. |
 | Stoners Age **(All Formats)** | Pokemon that only learn 2 moves or fewer are allowed to learn up to two(2) TMs found on the ground or gifted by NPC. |
-| Early Balls **(HG Partners)** | *Must have latest Tournament patch* (**#tourny-resources channel** in the Discord Server) **Player 1** can buy up to 5 Pokeballs from the Quagsire per seed.. **Player 2** will need to trash as many lab-given Potions as **Player 1** bought Pokeballs in the corresponding seed.  **Player 2** must immediately trash the Potions before leaving the lab. |
+| Early Balls **(HG Partners)** | *Must have latest Tournament patch* (**#tourny-resources channel** in the Discord Server, or the "Patch Your Rom" Global rule below) **Player 1** can buy up to 5 Poké Balls from the Quagsire per seed.. **Player 2** will need to trash as many lab-given Potions as **Player 1** bought Poké Balls in the corresponding seed. **Player 2** must immediately trash the Potions before leaving the lab. |
 
 ## Global Rules
 **Rules which apply to the tournament as a whole. Any additional rules for other modes will be noted below this table.**
@@ -34,6 +34,7 @@ Each season, there are modifiers selected which slightly change the way the tour
 | Have Fun!🙂 | This tournament has brought together a lot of streamers and their communities. It's all about having fun and enjoying the experience!|
 | 10 Seeds Per Round | 	Each player will complete 10 seeds within the week. |
 | Make Time For Seeds | 10 seeds must be completed in the 1 week window. If the seeds are not completed, the score will be considered final at the closing of the round. Times are based on your local timezone. i.e. Round 1 will conclude *specified day* at 11:59pm. |
+| Patch Your Rom | **HeartGold:** https://github.com/PyroMikeGit/HGSSModifiers/releases/tag/v0.1.0 <br> **FireRed:** https://github.com/DrMaple/FireRed-Tourney-Patch/releases/tag/FireRedTourneyS11 |
 | Lab Ball Choice | To help promote competetive balance, all 10 seeds will be 'lab choice' where each competitor exams each ball and chooses their starter. |
 | Legendary Lab Clauses | As of S7 - Legendaries will be banned from the lab due to competitive inequality for those that face them on rival vs. those that do not. |
 | Catch & Release | You **MUST NOT** abuse catching and releasing. Only naturally obtained Poké Balls can be used for catching and releasing. You cannot buy balls to use for catch & release. When releasing, you are not to look at stats. We want to iterate that this is not a huge deal, just try your best not to abuse viewing stats. |
@@ -60,7 +61,7 @@ Each season, there are modifiers selected which slightly change the way the tour
 || Players MUST attempt to click moves that make sense (i.e. most powerful/status etc), any attempts to throw lab purposefully will result in DQ. We understand that skissues happen, but **REMEMBER** it's meant to be fun, embrace the RNG. |
 | Evolution Bonus Points | You are limited to TWO (2) evolution bonuses per seed. All evolution targets must come from Route 1, 22, 2 and Viridian Forest PRE-Gym 1. |
 | Kaizo Luck Clause | One guaranteed trip to Brock. If all 9 of your first runs fail to make it, you may repeat seed generation until a seed makes it here. |
-| Misty Before Leaving | Players **MUST** defeat Misty before progressing south. Please use the [**provided patch**](https://github.com/DrMaple/FireRed-Tourney-Patch/releases/tag/FireRedTourneyS10) which prevents (now illegal) progression. It also includes some neat QoL updates to help players in their runs. Bridge and trainers and trainers North of Cerulean are still permitted before Misty. |
+| Misty Before Leaving | Players **MUST** defeat Misty before progressing south. Please use the [**provided patch**](https://github.com/DrMaple/FireRed-Tourney-Patch/releases/tag/FireRedTourneyS11) which prevents (now illegal) progression. It also includes some neat QoL updates to help players in their runs. Bridge and trainers and trainers North of Cerulean are still permitted before Misty. |
 | No Heals Clause | Any seed which does not contain a legal HP restoring item of any kind before Brock may purchase **1** Potion from the shop. |
 
 ## Partners HeartGold Rules
