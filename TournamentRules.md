@@ -23,7 +23,7 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 Each season, there are modifiers selected which slightly change the way the tournament seeds are played. The current season's modifiers can be found below.
 | **Modifier** | **Details** |
 |-|-|
-| **Alchemist** **(All Formats)** | You can sell Potions and drinks to buy different ones that have the same or less HP value. Max Potion and Full Restore count for 300HP. |
+| Alchemist **(All Formats)** | You can sell Potions and drinks to buy different ones that have the same or less HP value. Max Potion and Full Restore count for 300HP. |
 | Stoners Age **(All Formats)** | Pokemon that only learn 2 moves or fewer are allowed to learn up to two(2) TMs found on the ground or gifted by NPC. |
 | Early Balls **(HG Partners)** | *Must have latest Tournament patch* (**#tourny-resources channel** in the Discord Server, or the "Patch Your Rom" Global rule below) **Player 1** can buy up to 5 Poké Balls from the Quagsire per seed.. **Player 2** will need to trash as many lab-given Potions as **Player 1** bought Poké Balls in the corresponding seed. **Player 2** must immediately trash the Potions before leaving the lab. |
 
@@ -49,9 +49,9 @@ Each season, there are modifiers selected which slightly change the way the tour
 | Tie Event | In the event of a tie, the player who had the furthest run will be declared the winner. Full clear bonus points ARE NOT milestones. If players are still tied, a 1-seed sudden death play-off will be completed to determine the winner. Players will still have lab choice for the ball. The first player to complete the Rival 1 battle sets the distance to beat. The player with the most completed milestones will be declared the winner. |
 | Evolution Bonus Points | Successfully evolving a Pokémon through natural level-up will earn you bonus points towards your tournament score (Items/Friendship evolutions will not count). |
 || **Evolution Bonus Points Structure:** HGSS: Lvl 0-19 (+2) -- Lvl 20-29 (+3) -- Lvl 30+ (+5) -- FRLG Lvl 0-19 (+3) -- Lvl 20-29 (+6) -- Lvl 30+ (+8) |
-|| You are limited to TWO (2) evolution bonuses per seed. All evolution targets must come from Route 29, 30, 31, 32, 46, Sprout Tower, Ruins of Alph, Dark Cave, Rock Smash/Headbutt/Fishing locations PRE-Union Cave. Evolution bonus is NOT AVAILABLE to new pivots during or after Union Cave.
+|| You are limited to TWO (2) evolution bonuses per seed. All evolution targets must come from Route 29, 30, 31, 32, 46, Sprout Tower, Ruins of Alph, Dark Cave, Rock Smash/Headbutt/Fishing locations PRE-Union Cave. Evolution bonus is NOT AVAILABLE to new pivots during or after Union Cave. |
+|| Pokémon who evolve after the lab battle (Rival 1) are **not eligible for bonus points**. |
 | Kaizo Luck Clause | One guaranteed trip to Falkner/Brock. If all 9 of your first runs fail to make it, you may repeat seed generation until a seed makes it here. <br> ~We want everyone who signs up to be able to actually play the game. Kaizo happens, this just helps to slightly mitigate that. |
-
 
 ## FireRed Rules
 **Extra Rules Specific to FRLG**
