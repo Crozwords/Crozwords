@@ -26,7 +26,7 @@ Each season, there are modifiers selected which slightly change the way the tour
 | One TM Mon **(All Formats)** | Learn one TM at the time of acquisition **(ONLY ONE)** but must forfeit the ability to learn/re-learn any other moves for the rest of the seed. |
 | Setup Loses **(All Formats)** | Using a setup move which increases ATK or SPA and does not deal damage results in -1 point from the total score while in Gyms, E4 & Champion battles. |
 
-## Global Rules
+## Global "CORE" Tournament Rules
 **Rules which apply to the tournament as a whole. Any additional rules for other modes will be noted below this table.**
 | **Rule** | **Details** |
 |-|-|
