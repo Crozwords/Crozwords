@@ -22,9 +22,9 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 Each season, there are modifiers selected which slightly change the way the tournament seeds are played. The current season's modifiers can be found below.
 | **Modifier** | **Details** |
 |-|-|
-| Pickpocket the Professor **(All Formats)** | *Must have latest Tournament patch* (**#tourny-resources channel** in the Discord Server, or the "Patch Your Rom" Global rule below) Receive a Master Ball in addition to the normal 5 Poké Balls at the beginning of each seed. |
-| One TM Mon **(All Formats)** | Learn one TM at the time of acquisition **(ONLY ONE)** but must forfeit the ability to learn/re-learn any other moves for the rest of the seed. |
-| Setup Loses **(All Formats)** | Using a setup move which increases ATK or SPA and does not deal damage results in -1 point from the total score while in Gyms, E4 & Champion battles. |
+| Pickpocket the Professor **(All Formats)** | *Must have latest Tournament patch* (**#tourny-resources channel** in the Discord Server, or the "Patch Your Rom" Global rule below) Receive a Master Ball in addition to the normal 5 Poké Balls at the beginning of each seed. It may be used at any time. |
+| One TM Mon **(All Formats)** | Learn one TM at the time of acquisition **(ONLY ONE)** but must forfeit the ability to learn/re-learn any other moves for the rest of the seed. There is to be no passing by TMs to backtrack later in the seed. Once you have passed through a route, TMs on that route are no longer accessible if not collected. |
+| Setup Loses **(All Formats)** | Using a setup move which increases ATK or SPA and does not deal damage results in -1 point from the total score while in Gyms, E4 & Champion battles. This applies to any permanent stat increasing move (EVA+, Accupressure, etc.)  |
 
 ## Global "CORE" Tournament Rules
 **Rules which apply to the tournament as a whole. Any additional rules for other modes will be noted below this table.**
