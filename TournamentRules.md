@@ -53,7 +53,7 @@ Each season, there are modifiers selected which slightly change the way the tour
 || Pokémon who evolve after the lab battle (Rival 1) are **not eligible for bonus points**. |
 | Kaizo Luck Clause | One guaranteed trip to Falkner/Brock. If all 9 of your first runs fail to make it, you may repeat seed generation until a seed makes it here. <br> ~We want everyone who signs up to be able to actually play the game. Kaizo happens, this just helps to slightly mitigate that. |
 
-## FireRed Rules
+## FireRed Specific Rules
 **Extra rules specific to FRLG**
 | **Rule** | **Details** |
 |-|-|
@@ -63,7 +63,7 @@ Each season, there are modifiers selected which slightly change the way the tour
 | Kaizo Luck Clause | One guaranteed trip to Brock. If all 9 of your first runs fail to make it, you may repeat seed generation until a seed makes it here. |
 | Early Balls | Poké Balls are obtained as soon as the player leaves Pallet Town. Please use the [**provided patch**](https://github.com/DrMaple/FireRed-Tourney-Patch/releases/tag/FireRedTourneyS12) which prevents (now illegal) progression. It also includes some neat QoL updates to help players in their runs. |
 | No Heals Clause | Any seed which does not contain a legal HP restoring item of any kind before Brock may purchase **1** Potion from the shop. |
-| Misty Before Leaving | Players **MUST** defeat Misty before progressing south. Bridge and trainers and trainers North of Cerulean are still permitted before Misty. |
+| Misty Before Leaving | Players **MUST** defeat Misty before progressing south. Bridge and trainers and trainers North of Cerulean are still permitted before Misty. Bridge and Route north of bridge are permitted, the NPC blocks the path through the house to head south of Cerulean. |
 | Erika Before Flute | Players **MUST** defeat Erika before obtaining the Poké Flute. |
 | Move Relearner | Players now have access to a Move Reminder NPC on outside Rock Tunnel (Cerulean side), who takes Heart Scales as currency. |
 
