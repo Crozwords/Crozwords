@@ -16,7 +16,7 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 |-|-|
 | HeartGold **(.dev 2.0)** | 321WRIEEgKYAJsAngCRAAKeBhsEiAEAFAACCQAuEgAAAAAFzBCI5ATkQYgICTIGBQIyAAUYBcwQiAAAAAEVUG9rZW1vbiBIZWFydEdvbGQgKFUpNW269BL1hjM= |
 | FireRed **(.dev 2.0)** | 321WRIEEjKYAJsAngCRAAKeBhsEiAEAFAACCQAuEgAAAAAFhBC45ATkAYYICTIGBQIyAAUYBYQQuAAAAAAQRmlyZSBSZWQgKFUpIDEuMU3/DAofsg/W |
-| HeartGoldDOUBLES **(.dev 2.0)** | 321WRIEEgKYAJsAngCRAAKeBhsEiAEAFAACCQAuEgAAAAAFjBCI5ATkQZkJCTIGBQMyAAUYBYwQiAAAAAEVUG9rZW1vbiBIZWFydEdvbGQgKFUp/WKqXNfwmEw= |
+| HeartGoldDOUBLES **(.dev 2.0)** | 321WRIEEgKYAJsAngCRAAKeBhsEiAEAFAACCQAuEgAAAAAFzBCI5ATkQZkJCTIGBQMyAAUYBcwQiAAAAAEVUG9rZW1vbiBIZWFydEdvbGQgKFUp51GXwhL1hjM= |
 
 ## Seasonal Tournament Modifiers:
 Each season, there are modifiers selected which slightly change the way the tournament seeds are played. The current season's modifiers can be found below.
