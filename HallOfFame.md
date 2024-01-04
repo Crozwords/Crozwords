@@ -2,15 +2,11 @@
 
 **INTRODUCING** - **HALL OF FAME**
 
-So what is it? Starting FRESH in 2023, this is a Tournamnet Discord specific event where you can compete amongst the community to try to hold 
-as many mon-specific records as possible under the KAIZO IRONMON ruleset. You can also **WIN CROZ's MONEY.** This event will run from January 1, 2023 to December 31, 2023. Who will reign as the 
-greatest record holder in the server??!!??
+So what is it? This is a Tournamnet Discord specific event where you can compete amongst the community to try to hold 
+as many mon-specific records as possible under the KAIZO IRONMON ruleset. This is an **annual** event will run from January 1 to December 31. Who will reign as the 
+greatest record holder in the server??!!?? There is also a leaderboard for **all-time record holders.** which tracks total records from all years.
 
-The purpose of this event is to help grow the server and the community as a whole. In increments of 10$, CROZ is offering 10x the number of discord 
-members by December 31, 2023. Currently 20$ (200 dc members) to the person who holds the MOST individual pokemon records, PER GAME. Games offered are FRLG, Emerald, Platinum, 
-HGSS, and BW. So tell your friends, get them interested and the prize pool will go up!
-
-Every mon will have it's own unique RECORD HOLDER, based on most completed milestones. 
+Every mon will have it's own unique RECORD HOLDER, based on sequentially completed milestones. 
 
 <br>
 
