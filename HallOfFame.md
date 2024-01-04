@@ -1,4 +1,4 @@
-👋 Hi, I’m @Crozwords and i want to introduce you to a fun discord event running for all of 2023!!! 
+👋 Hi, I’m @Crozwords and i want to introduce you to a fun competitive discord event for all streamers!  
 
 **INTRODUCING** - **HALL OF FAME**
 
