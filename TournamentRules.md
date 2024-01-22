@@ -11,7 +11,7 @@ Players will be awarded points for milestones or bonuses on each seed. The score
 You can join the tournament Discord server [**here**](https://discord.gg/nxjb4HNhce) where you can register, view the brackets, get tournament resources and see the FAQs.
 
 ## Tournament Randomizer String Settings:
-For the settings strings, we recommend using [**something_smart_'s edited randomizer**](https://github.com/something-smart/ironmon-randomizer) which will give competitors enhanced settings to speed up seed times. Make sure you are updated to the **MOST CURRENT VERSION (2.0)** Formats below with **(Smart)** are only compatible with something_smart_'s randomizer and will have access to increased friendship values. Competitors using the most up-to-date randomizer from the official IronMON Discord server will want to use the strings with **(4.6.0)**.
+For the settings strings, we recommend using [**something_smart_'s edited randomizer**](https://github.com/something-smart/ironmon-randomizer) which will give competitors enhanced settings to speed up seed times. Make sure you are updated to the **MOST CURRENT VERSION** Formats below with **(Smart)** are only compatible with something_smart_'s randomizer and will have access to increased friendship values. 
 | **Format** | **String** |
 |-|-|
 | HeartGold **(.dev 2.0)** | 321WRIEEgKYAJsAngCRAAKeBhsEiAEAFAACCQAuEgAAAAAFzBCI5ATkQYgICTIGBQIyAAUYBcwQiAAAAAEVUG9rZW1vbiBIZWFydEdvbGQgKFUpNW269BL1hjM= |
