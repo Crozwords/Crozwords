@@ -1,5 +1,5 @@
 # Crozwords Kaizo IronMON Tournament Rules Hub
-**👋 Hi, I’m Crozwords, chief organizer of the Kaizo IronMON Tournament.**
+**👋 Hi, I’m Crozwords, creator and organizer of the Kaizo IronMON Tournament.**
 
 Players will be awarded points for milestones or bonuses on each seed. The score for each round will be the total milestones reached across all 10 seeds (+ bonus points).
 
