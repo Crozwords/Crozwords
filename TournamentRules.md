@@ -14,9 +14,9 @@ You can join the tournament Discord server [**here**](https://discord.gg/nxjb4HN
 For the settings strings, we recommend using [**something_smart_'s edited randomizer**](https://github.com/something-smart/ironmon-randomizer) which will give competitors enhanced settings to speed up seed times. Make sure you are updated to the **MOST CURRENT VERSION** Formats below with **(Smart)** are only compatible with something_smart_'s randomizer and will have access to increased friendship values. 
 | **Format** | **String** |
 |-|-|
-| HeartGold **(.dev 2.0)** | 321WRIEEgKYAJsAngCRAAKeBhsEiAEAFAACCQAuEgAAAAAFzBCI5ATkQYgICTIGBQIyAAUYBcwQiAAAAAEVUG9rZW1vbiBIZWFydEdvbGQgKFUpNW269BL1hjM= |
-| FireRed **(.dev 2.0)** | 321WRIEEjKYAJsAngCRAAKeBhsEiAEAFAACCQAuEgAAAAAFhBC45ATkAYYICTIGBQIyAAUYBYQQuAAAAAAQRmlyZSBSZWQgKFUpIDEuMU3/DAofsg/W |
-| HeartGoldDOUBLES **(.dev 2.0)** | 321WRIEEgKYAJsAngCRAAKeBhsEiAEAFAACCQAuEgAAAAAFzBCI5ATkQZkJCTIGBQMyAAUYBcwQiAAAAAEVUG9rZW1vbiBIZWFydEdvbGQgKFUp51GXwhL1hjM= |
+| HeartGold  | 321WRIEEgKYAJsAngCRAAKeBhsEiAEAFAACCQAuEgAAAAAFzBCI5ATkQYgICTIGBQIyAAUYBcwQiAAAAAEVUG9rZW1vbiBIZWFydEdvbGQgKFUpNW269BL1hjM= |
+| FireRed  | 321WRIEEjKYAJsAngCRAAKeBhsEiAEAFAACCQAuEgAAAAAFhBC45ATkAYYICTIGBQIyAAUYBYQQuAAAAAAQRmlyZSBSZWQgKFUpIDEuMU3/DAofsg/W |
+| HeartGoldDOUBLES  | 321WRIEEgKYAJsAngCRAAKeBhsEiAEAFAACCQAuEgAAAAAFzBCI5ATkQZkJCTIGBQMyAAUYBcwQiAAAAAEVUG9rZW1vbiBIZWFydEdvbGQgKFUp51GXwhL1hjM= |
 
 ## Seasonal Tournament Modifiers:
 Each season, there are modifiers selected which slightly change the way the tournament seeds are played. The current season's modifiers can be found below.
