@@ -22,7 +22,7 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 Each season, there are modifiers selected which slightly change the way the tournament seeds are played. The current season's modifiers can be found below.
 | **Modifier** | **Details** |
 |-|-|
-| Pickpocket the Professor | *Must have latest Tournament patch* (**#tourny-resources channel** in the Discord Server, or the "Patch Your Rom" Global rule below) Receive a Master Ball in addition to the normal 5 Poké Balls at the beginning of each seed. It may be used at any time. |
+| Pickpocket the Professor | *Must have latest Tournament patch* (**#tourny-resources channel** in the Discord Server, or the "Patch Your Rom" Global rule below) Receive a Master Ball in addition to the normal 5 Poké Balls at the beginning of each seed. It may be used at any time. In HGSS, you take it from the Quagsire in the Lab BEFORE the rival fight. |
 | High End Shopper | **BUY & LEARN** 1 TM of your choice when you **first reach** the department store. |
 | These Moves Don't Exist | If your Pokémon has an active 4x weakness, you get an extra point for each **Gym milestone** completed. |
 
