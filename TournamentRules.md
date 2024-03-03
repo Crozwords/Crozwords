@@ -15,14 +15,15 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 | **Format** | **String** |
 |-|-|
 | HeartGold  | 321WRIEEgKYAJsAngCRAAKeBhsEiAEAFAACCQAuEgAAAAAFzBCI5ATkQYgICTIGBQIyAAUYBcwQiAAAAAEVUG9rZW1vbiBIZWFydEdvbGQgKFUpNW269BL1hjM= |
+| HeartGold Doubles  | 321WRIEEgKYAJsAngCRAAKeBhsEiAEAFAACCQAuEgAAAAAFzBCI5ATkQZkJCTIGBQMyAAUYBcwQiAAAAAEVUG9rZW1vbiBIZWFydEdvbGQgKFUp51GXwhL1hjM= |
 | FireRed  | 321WRIEEjKYAJsAngCRAAKeBhsEiAEAFAACCQAuEgAAAAAFhBC45ATkAYYICTIGBQIyAAUYBYQQuAAAAAAQRmlyZSBSZWQgKFUpIDEuMU3/DAofsg/W |
-| HeartGoldDOUBLES  | 321WRIEEgKYAJsAngCRAAKeBhsEiAEAFAACCQAuEgAAAAAFzBCI5ATkQZkJCTIGBQMyAAUYBcwQiAAAAAEVUG9rZW1vbiBIZWFydEdvbGQgKFUp51GXwhL1hjM= |
 
 ## Seasonal Tournament Modifiers:
 Each season, there are modifiers selected which slightly change the way the tournament seeds are played. The current season's modifiers can be found below.
 | **Modifier** | **Details** |
 |-|-|
-| To Be Confirmed | 🙂 |
+| Survival Moment | Full clear a specific route without using the Pokémon Center to get **ONE** bonus point. <br> <br> **FireRed** - Routes 3 & 25 (does not include trainers near Nugget Bridge). <br> **HeartGold** - Routes 32 & 35. |
+| Stacked Grass | Can catch a second Pokémon on the same route once per seed. | 
 
 ## Global "CORE" Tournament Rules
 **Rules which apply to the tournament as a whole. Any additional rules for other modes will be noted below this table.**
@@ -51,7 +52,7 @@ Each season, there are modifiers selected which slightly change the way the tour
 | Kaizo Luck Clause | One guaranteed trip to Falkner/Brock. If all 9 of your first runs fail to make it, you may repeat seed generation until a seed makes it here. <br> ~We want everyone who signs up to be able to actually play the game. Kaizo happens, this just helps to slightly mitigate that. |
 
 ## FireRed Specific Rules
-**Extra rules specific to FRLG**
+**Extra rules specific to the FRLG format**
 | **Rule** | **Details** |
 |-|-|
 | Guaranteed Run Clause | Each player is guaranteed 10 seeds exit the lab. If you faint in the lab, you re-randomize and try again. |
@@ -65,7 +66,7 @@ Each season, there are modifiers selected which slightly change the way the tour
 | Move Relearner | Players now have access to a Move Reminder NPC on outside Rock Tunnel (Cerulean side), who takes Heart Scales as currency. |
 
 ## Partners HeartGold Rules
-**Extra rules specific to HGSS partners format**
+**Extra rules specific to the HGSS partners format**
 | **Rule** | **Details** |
 |-|-|
 | PLAYER 1 and PLAYER 2 | Both players will be completing idential seeds. **PLAYER 1** Your job is to scout the seed and provide information and resources to the PLAYER 2. PLAYER 2 will have the advantage of knowing what your partner encountered. Your job as a team is to communicate and work together to score the MOST CUMULATIVE MILESTONE + BONUS POINTS. All information exchanged is legal. Logs are not to be viewed until both PLAYER 1 and PLAYER 2 have completed the seed. |
@@ -75,3 +76,10 @@ Each season, there are modifiers selected which slightly change the way the tour
 | Plate Gifting | **PLAYER 1** has the ability to pass on resources to PLAYER 2 through plates. As you progress through your seed, you will accumulate PLATES. At any point in your seed, prior to an overworld battle OR entering a dungeon, you can GIFT the plates to the second player. They simply must declare "IM GIFTING xNumber of PLATES TO MY PARTNER", then trash them from their inventory. Then PLAYER 2 can redeem the plates for heals as if they had them in their correlating seed. THIS MUST BE THE SAME SEED NUMBER. Players **must purchase** the items and cannot be supplied them in the lab (as of S10 seasonal modifier). Each Plate is worth 10HP in healing items. |
 || **PLAYER 2's** redemption of the plates is a 1-time purchase of healing items = to x10 the number of plates you have been gifted. E.g. you were gifted 10 plates, you can exchange them for 100pts of healing, however you choose. (5 Potions... or 2 Super Potions, etc.) *note* You must progess far enough to be able to purchase your preferred potions. i.e. Super Potions only unlock after obtaining 1st badge. |
 | Admin Lab Creation | Prior to each round of the tournament, the coordinator or an Admin will randomly run 10 lab seeds and provide the listed mons to each team. Those mons will be identical for all players for the round however each team's PLAYER 1 will do the unique randomization, then share the seed number and string code with their Partner. |
+
+## Doubles Rules
+**Extra rules specific to the doubles format**
+| **Rule** | **Details** |
+|-|-|
+| Extra TM | A total of three Gym TMs are learnable each seed. |
+| Sharing Is Caring | If one Pokémon has two TMs taught to it, the partner must recieve the remaining TM. |
