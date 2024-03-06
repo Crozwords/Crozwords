@@ -48,7 +48,7 @@ Each season, there are modifiers selected which slightly change the way the tour
 | Evolution Bonus Points | Successfully evolving a Pokémon through natural level-up will earn you bonus points towards your tournament score (Items/Friendship evolutions will not count). |
 || **Evolution Bonus Points Structure:** HGSS: Lvl 0-19 (+2) -- Lvl 20-29 (+3) -- Lvl 30+ (+5) -- FRLG Lvl 0-19 (+3) -- Lvl 20-29 (+6) -- Lvl 30+ (+8) |
 || You are limited to TWO (2) evolution bonuses per seed. All evolution targets must come from Route 29, 30, 31, 32, 46, Sprout Tower, Ruins of Alph, Dark Cave, Rock Smash/Headbutt/Fishing locations PRE-Union Cave. Evolution bonus is NOT AVAILABLE to new pivots during or after Union Cave. |
-|| Pokémon who evolve after the lab battle (Rival 1) are **not eligible for bonus points**. |
+|| If a Pokémon levels up and evolves as a result of the Rival 1 battle/"the lab", they are not entitled to the evolution bonus points. **Two Pokémon after that are eligible for bonus evolutions points per seed**. |
 | Kaizo Luck Clause | One guaranteed trip to Falkner/Brock. If all 9 of your first runs fail to make it, you may repeat seed generation until a seed makes it here. <br> ~We want everyone who signs up to be able to actually play the game. Kaizo happens, this just helps to slightly mitigate that. |
 
 ## FireRed Specific Rules
