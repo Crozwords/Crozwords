@@ -22,8 +22,8 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 Each season, there are modifiers selected which slightly change the way the tournament seeds are played. The current season's modifiers can be found below.
 | **Modifier** | **Details** |
 |-|-|
-| Survival Moment | Full clear a specific route without using the Pokémon Center to get **ONE** bonus point. <br> <br> **FireRed** - Routes 3 & 25 (does not include trainers near Nugget Bridge). <br> **HeartGold** - Routes 32 & 35. |
-| Stacked Grass | Can catch a second Pokémon on the same route once per seed. | 
+| The Underdog | Pokémon with 420 BST or less get an extra point for each Gym defeated. Make sure to note it in your score hand in! |
+| Lined Up | You may substitute one of your two allotted Gym TMs with a TM you find on the ground or from an NPC, as long as the move matches one of your Pokemon's typing(s). It must be taught or ignored at time of pickup. You may not back-track and pick up a TM later if you decide to pass on it when on the route. | 
 
 ## Global "CORE" Tournament Rules
 **Rules which apply to the tournament as a whole. Any additional rules for other modes will be noted below this table.**
