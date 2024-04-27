@@ -23,7 +23,7 @@ Each season, there are modifiers selected which slightly change the way the tour
 | **Modifier** | **Details** |
 |-|-|
 | The Underdog | Pokémon with 420 BST or less get an extra point for each Gym defeated. Make sure to note it in your score hand in! |
-| Lined Up | You may substitute one of your two allotted Gym TMs with a TM you find on the ground or from an NPC, as long as the move matches one of your Pokemon's typing(s). It must be taught or ignored at time of pickup. You may not back-track and pick up a TM later if you decide to pass on it when on the route. | 
+| Lined Up | You may substitute one of your two allotted Gym TMs with a TM you find on the ground or from an NPC, as long as the move matches one of your Pokemon's typing(s). It must be taught or ignored at time of pickup. You may not back-track and pick up a TM later if you decide to pass on it when on the route. TMs that are purchased with money from stores are not allowed. | 
 
 ## Global "CORE" Tournament Rules
 **Rules which apply to the tournament as a whole. Any additional rules for other modes will be noted below this table.**
