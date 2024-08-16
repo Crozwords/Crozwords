@@ -22,8 +22,8 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 Each season, there are modifiers selected which slightly change the way the tournament seeds are played. The current season's modifiers can be found below.
 | **Modifier** | **Details** |
 |-|-|
-| Summer School | Use any TMs as if they were Gym TMs **if your Pokémon has a BST of 440 or less**. |
-| Crystal Ball | Before entering a non-Gym dungeon which has at least 5 trainers in it, buy **1 status heal (not full heal)** of your choice. | 
+| Stoners Age | Pokemon that learn few moves by level up (5 or less) can use any one TM as one of their allotted gym TMs. Can only be done ONCE per seed. [**List of most TMs you can get on the ground or gifted by NPCs**](https://docs.google.com/spreadsheets/d/1eKxh3sBMvnCPY_X5kU6pEKWL3RS_ubCcYmITbRDMUKM/edit?gid=0#gid=0). TMs from the department store are the exception and CANNOT be bought (this is a different modifier). You can use a TM that your pokemon was holding when pivoted to. |
+| Potent Investor | You can deposit a potion in your PC, it increases in value every time you get a badge. You can do this at any time you have access to a Pokemon Center. Only one potion can be in your PC at a time. You can deposit any type of HP-restoring consumable, excluding berries. The gained value follows this logic : Potion/Berry Juice --> Super potion/Energypowder/Fresh water --> Soda Pop --> Lemonade --> Moomoo Milk --> Hyper Potion/Energy Root --> Max Potion --> Full Restore. As an example: If you deposit a potion at the beginning, then get 7 badges, you can claim a Full restore. If you deposit a Moomoo Milk, then win ONE badge, you can get a hyper potion. You CANNOT break down your prize into multiple smaller potions (this is prevent the modifier looping back on itself). When you claim your upgraded potion, you do not get the original potion back (trash it). You can reclaim your potion without it upgrading if you need to and don't have to thrash anything. |
 
 ## Global "CORE" Tournament Rules
 **Rules which apply to the tournament as a whole. Any additional rules for other modes will be noted below this table.**
