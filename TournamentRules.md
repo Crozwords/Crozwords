@@ -22,8 +22,8 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 Each season, there are modifiers selected which slightly change the way the tournament seeds are played. The current season's modifiers can be found below.
 | **Modifier** | **Details** |
 |-|-|
-| [S18: Returning Modifier] | (To be determined...) |
-| [S18: New Modifier] | (To be determined...) |
+| **Survival Route** | **TASK:** Treat a chosen route as a dungeon (fully clear it without using the Pokémon Center to heal). **REWARD:** +1 point per route completed; up to 2 total per seed. **AVAILABLE ROUTES:** FRLG: [Route 3](https://bulbapedia.bulbagarden.net/wiki/Appendix:FireRed_and_LeafGreen_walkthrough/Section_4#Route_3) and [Route 11](https://bulbapedia.bulbagarden.net/wiki/Appendix:FireRed_and_LeafGreen_walkthrough/Section_7#Route_11) // HGSS: [Route 32](https://bulbapedia.bulbagarden.net/wiki/Appendix:HeartGold_and_SoulSilver_walkthrough/Section_4#Route_32) and both of: [Route 38](https://bulbapedia.bulbagarden.net/wiki/Appendix:HeartGold_and_SoulSilver_walkthrough/Section_8#Route_38) & [Route 39](https://bulbapedia.bulbagarden.net/wiki/Appendix:HeartGold_and_SoulSilver_walkthrough/Section_8#Route_39) combined |
+| **Bardic Inspiration** | **TASK:** Choose a [Flute](https://bulbapedia.bulbagarden.net/wiki/Flute#List_of_Flutes) color at the start of each round and hope to randomly acquire it. The colors are: blue, yellow, red, black, and white. **REWARD:** Once per seed, you may exchange (sell) 1 flute of the chosen color for ANY item\* you can buy from a Poké Mart. *\* Some restrictions apply. No department stores. No purchasing TMs.* |
 
 ## Global "CORE" Tournament Rules
 **Rules which apply to the tournament as a whole. Any additional rules for other modes will be noted below this table.**
