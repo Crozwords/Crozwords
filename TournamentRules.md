@@ -58,7 +58,7 @@ Each season, there are modifiers selected which slightly change the way the tour
 | Guaranteed Run Clause | Each player is guaranteed 10 seeds exit the lab. If you faint in the lab, you re-randomize and try again. |
 || Players MUST attempt to click moves that make sense (i.e. most powerful/status etc), any attempts to throw lab purposefully will result in DQ. We understand that skissues happen, but **REMEMBER** it's meant to be fun, embrace the RNG. |
 | Evolution Bonus Points | You are limited to TWO (2) evolution bonuses per seed. All evolution targets must come from Route 1, 22, 2 and Viridian Forest PRE-Gym 1. |
-| Kaizo Luck Clause | One guaranteed trip to Brock. If all 9 of your first runs fail to make it, you may repeat seed generation until a seed makes it here. |
+| Kaizo Luck Clause | One guaranteed trip to 1st Gym. If all 9 of your first runs fail to make it, you may repeat seed generation until a seed makes it inside the Gym. |
 | Early Balls | Poké Balls are obtained as soon as the player leaves Pallet Town. Please use the [**provided patch**](https://github.com/DrMaple/FireRed-Tourney-Patch/releases/tag/FireRedTourneyS12) which prevents (now illegal) progression. It also includes some neat QoL updates to help players in their runs. |
 | No Heals Clause | Any seed which does not contain a legal HP restoring item of any kind before Brock may purchase **1** Potion from the shop. |
 | Misty Before Leaving | Players **MUST** defeat Misty before progressing south. Bridge and trainers and trainers North of Cerulean are still permitted before Misty. Bridge and Route north of bridge are permitted, the NPC blocks the path through the house to head south of Cerulean. |
