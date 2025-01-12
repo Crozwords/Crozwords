@@ -23,10 +23,10 @@ Each season, there are modifiers selected which slightly change the way the tour
 | **Modifier** | **Details** |
 |-|-|
 | **Friends with Benefits** | **TASK:** Once per Route/Dungeon, you may use your HM friend for an advantage. This includes but is not exclusive to, swapping them in for weather, intimidate, or to dodge a perish song. 
-For PARTNERS, the HM friend you take will also REMOVE that pokemon from the pool of pivots for Player 2 - Choose Wisely.
-Your HM friend must be obtained before getting one Gym Badge and you are limited to benefitting from ONE HM friend **REWARD:** The ability of your HM friend, or any value of swapping them in to the battle. 
-| **The Gambler** | **TASK:** You may elect to SKIP getting points for defeating a gym to get the value of that gym +2 bonus points after defeating the next Gym. 
-This bonus may only be claimed once per seed, so choose wisely **REWARD:** Value of the skipped gym +2 bonus points |
+| | For PARTNERS, the HM friend you take will also REMOVE that pokemon from the pool of pivots for Player 2 - Choose Wisely. Your HM friend must be obtained before getting one Gym Badge and you are limited to benefitting from ONE HM friend.
+| | **REWARD:** The ability of your HM friend, or any value of swapping them in to the battle. 
+| **The Gambler** | **TASK:** You may elect to SKIP getting points for defeating a gym to get the value of that gym +2 bonus points after defeating the next Gym. This bonus may only be claimed once per seed, so choose wisely
+| | **REWARD:** Value of the skipped gym +2 bonus points |
 
 ## Global "CORE" Tournament Rules
 **Rules which apply to the tournament as a whole. Any additional rules for other modes will be noted below this table.**
