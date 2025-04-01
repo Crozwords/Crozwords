@@ -22,11 +22,10 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 Each season, there are modifiers selected which slightly change the way the tournament seeds are played. The current season's modifiers can be found below.
 | **Modifier** | **Details** |
 |-|-|
-| **Friends with Benefits** | **TASK:** Once per Route/Dungeon, you may use your HM friend for an advantage. This includes but is not exclusive to, swapping them in for weather, Intimidate, or to dodge Perish Song. Also applies to HeartGold Lab battle. |
-| | For PARTNERS, the HM friend you take will also REMOVE that Pokémon from the pool of pivots for Player 2 - Choose Wisely. Your HM friend must be obtained before getting one Gym Badge and you are limited to benefitting from ONE HM friend. |
-| | **REWARD:** The ability of your HM friend, or any value of swapping them in to the battle. |
-| **The Gambler** | **TASK:** You may elect to SKIP getting points for defeating a Gym to get the value of that gym +2 bonus points after defeating the next Gym. This bonus may only be claimed once per seed, so choose wisely. |
-| | **REWARD:** Value of the skipped Gym +2 bonus points |
+| **Stoners Age** | Pokémon that learn a few moves by level up (5 or less) can use any one TM as one of their allotted gym TMs. Can only be done ONCE per seed. TMs from the department store are the exception and CANNOT be bought. You can use a TM that your Pokémon was holding when pivoted to. |
+| | [List of most TMs you can get on the ground or gifted by NPCs](https://docs.google.com/spreadsheets/d/1eKxh3sBMvnCPY_X5kU6pEKWL3RS_ubCcYmITbRDMUKM/edit?gid=0#gid=0) |
+| **Gotta Catch 'Em All** | For a single route/area, you may choose to catch all the different Pokémon available there. You may only catch one of each species and you must pivot to one of them when finished. You can look at each Pokémon's stats/abilities, and you can take the held items from each of them. |
+| | (You don’t actually have to “catch them all”, you can stop whenever you find a good Pokémon) |
 
 ## Global "CORE" Tournament Rules
 **Rules which apply to the tournament as a whole. Any additional rules for other modes will be noted below this table.**
