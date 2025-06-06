@@ -20,12 +20,14 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 
 ## Seasonal Tournament Modifiers:
 Each season, there are modifiers selected which slightly change the way the tournament seeds are played. The current season's modifiers can be found below.
+
+### Season 21 - June 5th - June 26th
 | **Modifier** | **Details** |
 |-|-|
-| **Stoners Age** | Pokémon that learn a few moves by level up (5 or less) can use any one TM as one of their allotted gym TMs. Can only be done ONCE per seed. TMs from the department store are the exception and CANNOT be bought. You can use a TM that your Pokémon was holding when pivoted to. |
-| | [List of most TMs you can get on the ground or gifted by NPCs](https://docs.google.com/spreadsheets/d/1eKxh3sBMvnCPY_X5kU6pEKWL3RS_ubCcYmITbRDMUKM/edit?gid=0#gid=0) |
-| **Gotta Catch 'Em All** | For a single route/area, you may choose to catch all the different Pokémon available there. You may only catch one of each species and you must pivot to one of them when finished. You can look at each Pokémon's stats/abilities, and you can take the held items from each of them. |
-| | (You don’t actually have to “catch them all”, you can stop whenever you find a good Pokémon) |
+| **Stoners Age** | Once per run, get +1 point if you defeat three different legendary or mythical Pokemon that meet at least one of the following criteria as a group: |
+| | (A) Each is from a different generation, (B) All are from the same generation, (C) All share a weakness (doesn't matter if it's 2x or 4x) |
+| | This counts as long as you have defeated the legendary or mythical pokemon themselves, and these fights can occur at any point in the run. |
+| **Gotta Catch 'Em All** | All banned moves are allowed to be used until the 1st gym leader is defeated. |
 
 ## Global "CORE" Tournament Rules
 **Rules which apply to the tournament as a whole. Any additional rules for other modes will be noted below this table.**
