@@ -21,13 +21,13 @@ For the settings strings, we recommend using [**something_smart_'s edited random
 ## Seasonal Tournament Modifiers:
 Each season, there are modifiers selected which slightly change the way the tournament seeds are played. The current season's modifiers can be found below.
 
-### Season 21 (June 5th - June 26th)
+### Season 22 (August 29th - September 19th)
 | **Modifier** | **Details** |
 |-|-|
-| **Legendary Bingo** | Once per run, get +1 point if you defeat three different legendary or mythical Pokemon that meet at least one of the following criteria as a group: |
-| | (A) Each is from a different generation, (B) All are from the same generation, (C) All share a weakness (doesn't matter if it's 2x or 4x) |
-| | This counts as long as you have defeated the legendary or mythical pokemon themselves, and these fights can occur at any point in the run. |
-| **It's All A Lab** | All banned moves are allowed to be used until the 1st gym leader is defeated. |
+| **Alchemist** | You can sell healing items, then purchase healing items that equal the amount of HP healed by the items you sold. |
+| | You cannot purchase healing items if they heal status effects. |
+| | If you sell a max healing potion, it counts for 300 HP for the purposes of purchasing items. |
+| **The Very Best** | You can use 600BST or higher Pokémon. However, you may only heal at a Poké Center immediately after each Gym Leader. |
 
 ## Global "CORE" Tournament Rules
 **Rules which apply to the tournament as a whole. Any additional rules for other modes will be noted below this table.**
